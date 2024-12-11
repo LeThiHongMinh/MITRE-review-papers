@@ -1,252 +1,455 @@
 # MITRE-review-papers
 
-Marcelo Rodríguez, Gustavo Betarte, Daniel Calegari. 2024. A process mining-based method for attacker profiling using the MITRE ATT\&CK taxonomy. Journal of Internet Services and Applications. https://doi.org/10.5753/jisa.2024.3902 
+Marcelo Rodríguez, Gustavo Betarte, Daniel Calegari. 2024. A process mining-based method for attacker profiling using the MITRE ATT&CK taxonomy. Journal of Internet Services and Applications. https://doi.org/10.5753/jisa.2024.3902 
 
-Singh, Narendra and Tripathy, Somanath. 2024. It's too late if exfiltrate: Early stage Android ransomware detection. Computers \& Security. https://doi.org/10.1016/j.cose.2024.103819
+Singh, Narendra and Tripathy, Somanath. 2024. It's too late if exfiltrate: Early stage Android ransomware detection. Computers & Security. https://doi.org/10.1016/j.cose.2024.103819
 
 Chimmanee, Krishna and Jantavongso, Suttisak. 2024. Digital forensic of Maze ransomware: A case of electricity distributor enterprise in ASEAN. Expert Systems with Applications. https://doi.org/10.1016/j.eswa.2024.123652
 
-Yi, Tao and Chen, Xingshu and Li, Qindong and Zhu, Yi. 2024. An anomaly behavior characterization method of network traffic based on Spatial Pyramid Pool (SPP). Computers \& Security. https://doi.org/10.1016/j.cose.2024.103809
+Yi, Tao and Chen, Xingshu and Li, Qindong and Zhu, Yi. 2024. An anomaly behavior characterization method of network traffic based on Spatial Pyramid Pool (SPP). Computers & Security. https://doi.org/10.1016/j.cose.2024.103809
 
-Li, Lingzi and Huang, Cheng and Chen, Junren. 2024. Automated discovery and mapping ATT\&CK tactics and techniques for unstructured cyber threat intelligence. Computers \& Security. https://doi.org/10.1016/j.cose.2024.103815
+Li, Lingzi and Huang, Cheng and Chen, Junren. 2024. Automated discovery and mapping ATT&CK tactics and techniques for unstructured cyber threat intelligence. Computers & Security. https://doi.org/10.1016/j.cose.2024.103815
 
 Bagui, Sikha S and Mink, Dustin and Bagui, Subhash C and Sung, Dae Hyun and Mahmud, Farooq. 2024. Graphical Representation of UWF-ZeekData22 Using Memgraph. Electronics. https://doi.org/10.3390/electronics13061015
 
 Hossain, M Shamim and Islam, M Saiful and Rahman, M Abdur. 2024. A Cyber Range Framework for Emulating Secure and Private IT/OT Consumer Service Verticals Towards 6G. IEEE Transactions on Consumer Electronics. 10.1109/TCE.2024.3387055
 
-Loevenich, Johannes F and Adler, Erik and Mercier, R{\'e. 2024. Design of an Autonomous Cyber Defence Agent using Hybrid AI models. 2024 International Conference on Military Communication and Information Systems (ICMCIS). 10.1109/ICMCIS61231.2024.10540988
+Loevenich, Johannes F and Adler, Erik and Mercier, Rémi and Velazquez, Alexander and Lopes, Roberto Rigolin F. 2024. Design of an Autonomous Cyber Defence Agent using Hybrid AI models. 2024 International Conference on Military Communication and Information Systems (ICMCIS). 10.1109/ICMCIS61231.2024.10540988
 
 Simonetto, Stefano. 2024. Strengthening Cloud Applications: A Deep Dive into Kill Chain Identification, Scoring, and Automatic Penetration Testing. International Conference on Research Challenges in Information Science. https://doi.org/10.1007/978-3-031-59468-7_13
 
-Batalla, Jordi Mongay and Wrona, Konrad and Brown, David and Wi{\k{a. 2024. Threat Assessment of 5G Networks for Military Applications. 2024 International Conference on Military Communication and Information Systems (ICMCIS). DOI not available
+Batalla, Jordi Mongay and Wrona, Konrad and Brown, David and Wiącek. 2024. Threat Assessment of 5G Networks for Military Applications. 2024 International Conference on Military Communication and Information Systems (ICMCIS). https://doi.org/10.1109/ICMCIS61231.2024.10540765
 
-Yameogo, Sidbewendin Angelique. 2024. Improving Understanding of Misinformation Campaigns with a Two-Stage Methodology Using Semantic Analysis of Fake News. International Conference on Research Challenges in Information Science. DOI not available
+Yameogo, Sidbewendin Angelique. 2024. Improving Understanding of Misinformation Campaigns with a Two-Stage Methodology Using Semantic Analysis of Fake News. International Conference on Research Challenges in Information Science. https://doi.org/10.1007/978-3-031-59468-7_14 
 
 Mundt, Michael and Baier, Harald. 2024. Enhancing Incident Management by an Improved Understanding of Data Exfiltration: Definition, Evaluation, Review. International Conference on Digital Forensics and Cyber Crime. https://doi.org/10.1007/978-3-031-56580-9_3
 
 Lin, Pin-Shan and Lai, Yi-Cheng and Liao, Man-Ling and Chiu, Shih-Ping and Chen, Jiann-Liang. 2024. Hybrid Clustering Mechanisms for High-Efficiency Intrusion Prevention. 2024 26th International Conference on Advanced Communications Technology (ICACT). 10.23919/ICACT60172.2024.10471957
-Nguyen, Tu and Srndic, Nedim and Neth, Alexander. 2024. Noise Contrastive Estimation-based Matching Framework for Low-resource Security Attack Pattern Recognition. arXiv preprint arXiv:2401.10337. DOI not available
-Tavolato, Paul and Luh, Robert and Eresheim, Sebastian and Gmeiner, Simon and Schrittwieser, Sebastian. 2024. Comparing the Effectivity of Planned Cyber Defense Controls in Order to Support the Selection Process.. ICISSP. 10.5220/0012421800003648
-Tour{\'e. 2024. A framework for detecting zero-day exploits in network flows. Computer Networks. https://doi.org/10.1016/j.comnet.2024.110476
+
+Nguyen, Tu and Srndic, Nedim and Neth, Alexander. 2024. Noise Contrastive Estimation-based Matching Framework for Low-resource Security Attack Pattern Recognition. arXiv preprint arXiv:2401.10337. https://doi.org/10.48550/arXiv.2401.10337
+
+Tavolato, Paul and Luh, Robert and Eresheim, Sebastian and Gmeiner, Simon and Schrittwieser, Sebastian. 2024. Comparing the Effectivity of Planned Cyber Defense Controls in Order to Support the Selection Process. ICISSP. 10.5220/0012421800003648
+
+Touré, Almamy and Imine, Youcef and Semnont, Alexis and Delot, Thierry and Gallais, Antoine. 2024. A framework for detecting zero-day exploits in network flows. Computer Networks. https://doi.org/10.1016/j.comnet.2024.110476
+
 Salley, Christin and Mohammadi, Neda and Taylor, John E. 2024. Protecting Critical Infrastructure for Disasters: NLP-Based Automated Information Retrieval to Generate Hypothetical Cyberattack Scenarios. Journal of Infrastructure Systems. https://doi.org/10.1061/JITSE4.ISENG-2407
-Zhang, Jingci and Zheng, Jun and Zhang, Zheng and Chen, Tian and Tan, Yu-an and Zhang, Quanxin and Li, Yuanzhang. 2024. ATT\&CK-based Advanced Persistent Threat attacks risk propagation assessment model for zero trust networks. Computer Networks. https://doi.org/10.1016/j.comnet.2024.110376
+
+Zhang, Jingci and Zheng, Jun and Zhang, Zheng and Chen, Tian and Tan, Yu-an and Zhang, Quanxin and Li, Yuanzhang. 2024. ATT&CK-based Advanced Persistent Threat attacks risk propagation assessment model for zero trust networks. Computer Networks. https://doi.org/10.1016/j.comnet.2024.110376
+
 Oh, Sang Ho and Kim, Jeongyoon and Nah, Jae Hoon and Park, Jongyoul. 2024. Employing Deep Reinforcement Learning to Cyber-Attack Simulation for Enhancing Cybersecurity. Electronics. https://doi.org/10.3390/electronics13030555
-Yousaf, Awais and Zhou, Jianying. 2024. From sinking to saving: MITRE ATT \&CK and D3FEND frameworks for maritime cybersecurity. International Journal of Information Security. https://doi.org/10.1007/s10207-024-00812-4
-Hotellier, Estelle and Sicard, Franck and Francq, Julien and Mocanu, St{\'e. 2024. Standard specification-based intrusion detection for hierarchical industrial control systems. Information Sciences. https://doi.org/10.1016/j.ins.2024.120102
-Okada, Satoshi and Katano, Yosuke and Kozai, Yukihiro and Mitsunaga, Takuho. 2024. Predicting and Visualizing Lateral Movements Based on ATT\&CK and Quantification Theory Type 3. Journal of Cases on Information Technology (JCIT). 10.4018/JCIT.340722
-Luo, Bin and Chen, Liangguo and Ruan, Shuhua and Luo, Yonggang. 2024. Detecting APT-Exploited Processes through Semantic Fusion and Interaction Prediction.. Computers, Materials \& Continua. https://doi.org/10.32604/cmc.2023.045739
+
+Yousaf, Awais and Zhou, Jianying. 2024. From sinking to saving: MITRE ATT&CK and D3FEND frameworks for maritime cybersecurity. International Journal of Information Security. https://doi.org/10.1007/s10207-024-00812-4
+
+Hotellier, Estelle and Sicard, Franck and Francq, Julien and Mocanu, Stéphane. 2024. Standard specification-based intrusion detection for hierarchical industrial control systems. Information Sciences. https://doi.org/10.1016/j.ins.2024.120102
+
+Okada, Satoshi and Katano, Yosuke and Kozai, Yukihiro and Mitsunaga, Takuho. 2024. Predicting and Visualizing Lateral Movements Based on ATT&CK and Quantification Theory Type 3. Journal of Cases on Information Technology (JCIT). 10.4018/JCIT.340722
+
+Luo, Bin and Chen, Liangguo and Ruan, Shuhua and Luo, Yonggang. 2024. Detecting APT-Exploited Processes through Semantic Fusion and Interaction Prediction. Computers, Materials & Continua. https://doi.org/10.32604/cmc.2023.045739
+
 Hemberg, Erik and Turner, Matthew J and Rutar, Nick and O’reilly, Una-May. 2024. Enhancements to Threat, Vulnerability, and Mitigation Knowledge for Cyber Analytics, Hunting, and Simulations. Digital Threats: Research and Practice. https://doi.org/10.1145/3615668
+
 Hong, Andrew E and Malinovsky, Peter P and Damodaran, Suresh K. 2024. Towards attack detection in multimodal cyber-physical systems with sticky HDP-HMM based time series analysis. Digital Threats: Research and Practice. https://doi.org/10.1145/3604434
+
 Ge, Wenhan and Cui, Zeyuan and Wang, Junfeng and Tang, Binhui and Li, Xiaohui. 2024. MetaCluster: a Universal Interpretable Classification Framework for Cybersecurity. IEEE Transactions on Information Forensics and Security. 10.1109/TIFS.2024.3372808
+
 Tsai, Mengru and Lee, Shanhsin and Shieh, Shiuhpyng Winston. 2024. Strategy for implementing of zero trust architecture. IEEE Transactions on Reliability. 10.1109/TR.2023.3345665
+
 Jang, Myongwon and Lee, Kyungho. 2024. An Advanced Approach for Detecting Behavior-Based Intranet Attacks by Machine Learning. IEEE Access. 10.1109/ACCESS.2024.3387016
+
 Katsantonis, Menelaos N and Manikas, Athanasios and Mavridis, Ioannis and Fouliras, Panagiotis. 2024. tCOFELET: Conceptual Framework for Team-Centric e-Learning and Training. IEEE Access. 10.1109/ACCESS.2024.3408685
+
 Ge, Wenhan and Wang, Junfeng. 2024. SeqMask: Behavior extraction over cyber threat intelligence via multi-instance learning. The Computer Journal. https://doi.org/10.1093/comjnl/bxac172
+
 Mustafa, Hussain M and Basumallik, Sagnik and Vellaithurai, Ceeman and Srivastava, Anurag. 2024. Threat Detection in Power Grid OT Networks: Unsupervised ML and Cyber Intelligence Sharing with STIX. 2024 12th Workshop on Modeling and Simulation of Cyber-Physical Energy Systems (MSCPES). 10.1109/MSCPES62135.2024.10542775
+
 Zhang, Chenhui and Wang, Le and Fan, Dunqiu and Zhu, Junyi and Zhou, Tang and Zeng, Liyi and Li, Zhaohua. 2024. VTT-LLM: Advancing Vulnerability-to-Tactic-and-Technique Mapping through Fine-Tuning of Large Language Model. Mathematics. https://doi.org/10.3390/math12091286
+
 Mohammadzad, Maryam and Karimpour, Jaber and Mahan, Farnaz. 2024. Cyber attacker’s next action prediction on dynamic real-time behavior model. Computers and Electrical Engineering. https://doi.org/10.1016/j.compeleceng.2023.109031
+
 Song, InSung and Jeon, Seungho and Kim, Donghyun and Lee, Min Gyu and Seo, Jung Taek. 2024. Genics: a framework for generating attack scenarios for cybersecurity exercises on industrial control systems. Applied Sciences. https://doi.org/10.3390/app14020768
+
 Ampel, Benjamin M and Samtani, Sagar and Zhu, Hongyi and Chen, Hsinchun and Nunamaker Jr, Jay F. 2024. Improving threat mitigation through a cybersecurity risk management framework: A computational design science approach. Journal of Management Information Systems. https://doi.org/10.1080/07421222.2023.2301178
+
 Orbinato, Vittorio and Feliciano, Marco Carlo and Cotroneo, Domenico and Natella, Roberto. 2024. Laccolith: Hypervisor-Based Adversary Emulation with Anti-Detection. IEEE Transactions on Dependable and Secure Computing. 10.1109/TDSC.2024.3376129
+
 Nour, Boubakr and Pourzandi, Makan and Qureshi, Rushaan Kamran and Debbabi, Mourad. 2024. AUTOMA: Automated Generation of Attack Hypotheses and Their Variants for Threat Hunting Using Knowledge Discovery. IEEE Transactions on Network and Service Management. 10.1109/TNSM.2024.3378972
+
 Zipperle, Michael and Zhang, Yu and Chang, Elizabeth and Dillon, Tharam. 2024. PARGMF: A provenance-enabled automated rule generation and matching framework with multi-level attack description model. Journal of Information Security and Applications. https://doi.org/10.1016/j.jisa.2023.103682
+
 Arreche, Osvaldo and Guntur, Tanish and Abdallah, Mustafa. 2024. XAI-IDS: Toward Proposing an Explainable Artificial Intelligence Framework for Enhancing Network Intrusion Detection Systems. Applied Sciences. https://doi.org/10.3390/app14104170
+
 Mukherjee, Kunal and Wiedemeier, Joshua and Wang, Qi and Kamimura, Junpei and Rhee, John Junghwan and Wei, James and Li, Zhichun and Yu, Xiao and Tang, Lu-An and Gui, Jiaping and others. 2024. ProvIoT: Detecting Stealthy Attacks in IoT through Federated Edge-Cloud Security. International Conference on Applied Cryptography and Network Security. https://doi.org/10.1007/978-3-031-54776-8_10
+
 Bouhlal, Badr-Eddine and Sonnekalb, Tim and Gruner, Bernd and Brust, Clemens-Alexander. 2024. User-agent as a Cyber Intrusion Artifact: Detection of APT Activity using minimal Anomalies on the User-agent String Traffic. Proceedings of the 16th ZEUS Workshop on Services and their Composition (ZEUS 2024). 
-Chetwyn, Robert Andrew and Eian, Martin and J{\o. 2024. Modelling Indicators of Behaviour for Cyber Threat Hunting via Sysmon. European Interdisciplinary Cybersecurity Conference. https://doi.org/10.1145/3655693.3655722
+
+Chetwyn, Robert Andrew and Eian, Martin and Jøsang, Audun. 2024. Modelling Indicators of Behaviour for Cyber Threat Hunting via Sysmon. European Interdisciplinary Cybersecurity Conference. https://doi.org/10.1145/3655693.3655722
+
 Arreche, Osvaldo and Bibers, Ismail and Abdallah, Mustafa. 2024. A Two-Level Ensemble Learning Framework for Enhancing Network Intrusion Detection Systems. IEEE Access. https://doi.org/10.48550/arXiv.2409.18736
+
 Xiao, Dongling and Wei, Xiaoyan and Meng, Haohua and Zhao, Qingyao and Xu, Huan and Xia, Fan and Chen, Shi and Li, Xiang and Jin, Bo and Yu, Zheng. 2024. Research and Application of Side Channel Attacks and Defenses on Embedded Systems. 2024 International Conference on Integrated Circuits and Communication Systems (ICICACS). 10.1109/ICICACS60521.2024.10498374
-Bierwirth, Tore and Pf{\"u. 2024. Design and Evaluation of Advanced Persistent Threat Scenarios for Cyber Ranges. IEEE Access. 10.1109/ACCESS.2024.3402744
+
+Bierwirth, Tore and Pfützner, Stefan and Schopp, Matthias and Steininger, Christoph. 2024. Design and Evaluation of Advanced Persistent Threat Scenarios for Cyber Ranges. IEEE Access. 10.1109/ACCESS.2024.3402744
+
 Huang, Yi-Ting and Vaitheeshwari, R and Chen, Meng-Chang and Lin, Ying-Dar and Hwang, Ren-Hung and Lin, Po-Ching and Lai, Yuan-Cheng and Wu, Eric Hsiao-Kuang and Chen, Chung-Hsuan and Liao, Zi-Jie and others. 2024. MITREtrieval: Retrieving MITRE Techniques From Unstructured Threat Reports by Fusion of Deep Learning and Ontology. IEEE Transactions on Network and Service Management. 10.1109/TNSM.2024.3401200
+
 Sudyana, Didik and Lin, Ying-Dar and Verkerken, Miel and Hwang, Ren-Hung and Lai, Yuan-Cheng and D’hooge, Laurens and Wauters, Tim and Volckaert, Bruno and De Turck, Filip. 2024. Improving Generalization of ML-based IDS with Lifecycle-based Dataset, Auto-Learning Features, and Deep Learning. IEEE Transactions on Machine Learning in Communications and Networking. 10.1109/TMLCN.2024.3402158
+
 Lewis, Trevor M and Rimal, Bhaskar P. 2024. Effects of Removing User-Land Hooks in Endpoint Protection During Attack Experiments. IEEE Access. 10.1109/ACCESS.2024.3357525
+
 Mahmoud, Rasmi-Vlad and Anagnostopoulos, Marios and Pastrana, Sergio and Pedersen, Jens Myrup. 2024. Redefining Malware Sandboxing: Enhancing Analysis through Sysmon and ELK Integration. IEEE Access. 10.1109/ACCESS.2024.3400167
-Alsabbagh, Wael and Kim, Chaerin and Langend{\"o. 2024. Investigating the Security of OpenPLC: Vulnerabilities, Attacks, and Mitigation Solutions. IEEE Access. 10.1109/ACCESS.2024.3356051
+
+Alsabbagh, Wael and Kim, Chaerin and Langendörfer, Peter. 2024. Investigating the Security of OpenPLC: Vulnerabilities, Attacks, and Mitigation Solutions. IEEE Access. 10.1109/ACCESS.2024.3356051
+
 Lawall, Alexander and Beenken, Petra. 2024. A Threat-Led Approach to Mitigating Ransomware Attacks: Insights from a Comprehensive Analysis of the Ransomware Ecosystem. European Interdisciplinary Cybersecurity Conference. https://doi.org/10.1145/3655693.366132
+
 Davis, Rian and Keskin, Omer F. 2024. Cyber Threat Modeling for Water and Wastewater Systems: Contextualizing STRIDE and DREAD with the Current Cyber Threat Landscape. 2024 Systems and Information Engineering Design Symposium (SIEDS). 10.1109/SIEDS61124.2024.10534706
-Zisad, Sharif Noor and Hasan, Ragib. 2024. Towards a Security Analysis of Radiological Medical Devices using the MITRE ATT\&CK Framework. SoutheastCon 2024. 10.1109/SoutheastCon52093.2024.10500224
+
+Zisad, Sharif Noor and Hasan, Ragib. 2024. Towards a Security Analysis of Radiological Medical Devices using the MITRE ATT&CK Framework. SoutheastCon 2024. 10.1109/SoutheastCon52093.2024.10500224
+
 Arreche, Osvaldo and Guntur, Tanish R and Roberts, Jack W and Abdallah, Mustafa. 2024. E-XAI: Evaluating Black-Box Explainable AI Frameworks for Network Intrusion Detection. IEEE Access. 10.1109/ACCESS.2024.3365140
-Gabrys, Ryan and Bilinski, Mark and Fugate, Sunny and Silva, Daniel. 2024. Using Natural Language Processing Tools to Infer Adversary Techniques and Tactics Under the Mitre ATT\&CK Framework. 2024 IEEE 14th Annual Computing and Communication Workshop and Conference (CCWC). 10.1109/CCWC60891.2024.10427746
+
+Gabrys, Ryan and Bilinski, Mark and Fugate, Sunny and Silva, Daniel. 2024. Using Natural Language Processing Tools to Infer Adversary Techniques and Tactics Under the Mitre ATT&CK Framework. 2024 IEEE 14th Annual Computing and Communication Workshop and Conference (CCWC). 10.1109/CCWC60891.2024.10427746
+
 Kim, Minsong and Jang, Woohyuk and Hur, JunNyung and Yoon, MyungKeun. 2024. Relative Frequency-Rank Encoding for Unsupervised Network Anomaly Detection. IEEE/ACM Transactions on Networking. 10.1109/TNET.2024.3391396
-Domschot, Eva and Ramyaa, Ramyaa and Smith, Michael R. 2024. Improving Automated Labeling for ATT\&CK Tactics in Malware Threat Reports. Digital Threats: Research and Practice. https://doi.org/10.1145/3594553
-Branescu, Ioana and Grigorescu, Octavian and Dascalu, Mihai. 2024. Automated Mapping of Common Vulnerabilities and Exposures to MITRE ATT\&CK Tactics. Information. https://doi.org/10.3390/info15040214
+
+Domschot, Eva and Ramyaa, Ramyaa and Smith, Michael R. 2024. Improving Automated Labeling for ATT&CK Tactics in Malware Threat Reports. Digital Threats: Research and Practice. https://doi.org/10.1145/3594553
+
+Branescu, Ioana and Grigorescu, Octavian and Dascalu, Mihai. 2024. Automated Mapping of Common Vulnerabilities and Exposures to MITRE ATT&CK Tactics. Information. https://doi.org/10.3390/info15040214
+
 Varlioglu, Said and Elsayed, Nelly and Varlioglu, Eva Ruhsar and Ozer, Murat and ElSayed, Zag. 2024. The Pulse of Fileless Cryptojacking Attacks: Malicious PowerShell Scripts. SoutheastCon 2024. 10.1109/SoutheastCon52093.2024.10500068
-Kern, Manuel and Landauer, Max and Skopik, Florian and Weippl, Edgar. 2024. A logging maturity and decision model for the selection of intrusion detection cyber security solutions. Computers \& Security. https://doi.org/10.1016/j.cose.2024.103844
+
+Kern, Manuel and Landauer, Max and Skopik, Florian and Weippl, Edgar. 2024. A logging maturity and decision model for the selection of intrusion detection cyber security solutions. Computers & Security. https://doi.org/10.1016/j.cose.2024.103844
+
 Preuveneers, Davy and Joosen, Wouter. 2024. An Ontology-Based Cybersecurity Framework for AI-Enabled Systems and Applications. Future Internet. https://doi.org/10.3390/fi16030069
+
 Maesschalck, Sam and Fantom, Will and Giotsas, Vasileios and Race, Nicholas. 2024. These Aren’t the PLCs you’re looking for: Obfuscating PLCs to mimic honeypots. IEEE Transactions on Network and Service Management. 10.1109/TNSM.2024.3361915
+
 Wilson, Alec and Menzies, Ryan and Morarji, Neela and Foster, David and Mont, Marco Casassa and Turkbeyler, Esin and Gralewski, Lisa. 2024. Multi-Agent Reinforcement Learning for Maritime Operational Technology Cyber Security. arXiv preprint arXiv:2401.10149. https://doi.org/10.48550/arXiv.2401.10149
+
 Al-Hawawreh, Muna and Moustafa, Nour and Slay, Jill. 2024. A threat intelligence framework for protecting smart satellite-based healthcare networks. Neural Computing and Applications. https://doi.org/10.1007/s00521-021-06441-5
-Al-Sada, Bader and Sadighian, Alireza and Oligeri, Gabriele. 2024. MITRE ATT\&CK: State of the art and way forward. ACM Computing Surveys. DOI not available
-Sun, Huaqi and Shu, Hui and Kang, Fei and Zhao, Yuntian and Huang, Yuyao. 2024. Malware2ATT\&CK: A sophisticated model for mapping malware to ATT\&CK techniques. Computers \& Security. https://doi.org/10.1016/j.cose.2024.103772
-Skj{\o. 2024. Automated ATT\&CK Technique Chaining. Digital Threats: Research and Practice. https://doi.org/10.1145/3696013
-Rafiey, Pasha and Namadchian, Amin. 2024. Mapping Vulnerability Description to MITRE ATT\&CK Framework by LLM. Source not available. https://doi.org/10.21203/rs.3.rs-4341401/v1
-Zambianco, Marco and Facchinetti, Claudio and Siracusa, Domenico. 2024. A Proactive Decoy Selection Scheme for Cyber Deception using MITRE ATT\&CK. arXiv preprint arXiv:2404.12783. https://doi.org/10.1016/j.cose.2024.104144
-Shenoy, Neethu. 2024. Correlation of Vulnerabilities to MITRE ATT\&CK Using Natural Language Processing (NLP) Feature-Modeling. Source not available. DOI not available
+
+Skjøtskift, Geir and Eian, Martin and Bromander, Siri. 2024. Automated ATT&CK Technique Chaining. Digital Threats: Research and Practice. https://doi.org/10.1145/3696013
+
+Rafiey, Pasha and Namadchian, Amin. 2024. Mapping Vulnerability Description to MITRE ATT&CK Framework by LLM. https://doi.org/10.21203/rs.3.rs-4341401/v1
+
+Zambianco, Marco and Facchinetti, Claudio and Siracusa, Domenico. 2024. A Proactive Decoy Selection Scheme for Cyber Deception using MITRE ATT&CK. arXiv preprint arXiv:2404.12783. https://doi.org/10.1016/j.cose.2024.104144
+
 Afenu, Divine S and Asiri, Mohammed and Saxena, Neetesh. 2024. Industrial Control Systems Security Validation Based on MITRE Adversarial Tactics, Techniques, and Common Knowledge Framework. Electronics. https://doi.org/10.3390/electronics13050917
-Abdullah, Muhammad Irsyad and Abas, Aiman Ilyasa and Hajamydeen, Asif Iqbal. 2024. Effective SOC Response Strategies Using MITRE ATT \& CK. Journal of Emerging Technologies and Industrial Applications. DOI not available
-Shen, Xiangmin and Li, Zhenyuan and Burleigh, Graham and Wang, Lingzhi and Chen, Yan. 2024. Decoding the mitre engenuity att\&ck enterprise evaluation: An analysis of edr performance in real-world environments. Proceedings of the 19th ACM Asia Conference on Computer and Communications Security. https://doi.org/10.1145/3634737.3645012
-Ekisa, Conrad and Briain, Diarmuid {\'O. 2024. Leveraging the MITRE ATT\&CK Framework for Threat Identification and Evaluation in Industrial Control System Simulations. 2024 35th Irish Signals and Systems Conference (ISSC). 10.1109/ISSC61953.2024.10602968
-Virkud, Apurva and Inam, Muhammad Adil and Riddle, Andy and Liu, Jason and Wang, Gang and Bates, Adam. 2024. How does Endpoint Detection use the $\{$MITRE$\. 33rd USENIX Security Symposium (USENIX Security 24). DOI not available
-Lanni, Mei and Kurniawan, Aditya. 2024. Boosting Cyber Risk Assessment in Government Entities through Combined NIST and MITRE ATT\&CK Threat Modeling. Journal of System and Management Sciences. DOI not available
-Abdelwahab, Ihab and Hefny, Hesham A and Darwish, Nagy Ramdan. 2024. Enhancing Cybersecurity Defenses: A Multicriteria Decision-Making Approach to Mitre Att\&ck Mitigation Strategye. Available at SSRN 4907361. http://dx.doi.org/10.2139/ssrn.4907361
+
+Abdullah, Muhammad Irsyad and Abas, Aiman Ilyasa and Hajamydeen, Asif Iqbal. 2024. Effective SOC Response Strategies Using MITRE ATT&CK. Journal of Emerging Technologies and Industrial Applications. 
+
+Shen, Xiangmin and Li, Zhenyuan and Burleigh, Graham and Wang, Lingzhi and Chen, Yan. 2024. Decoding the MITRE engenuity ATT&CK enterprise evaluation: An analysis of EDR performance in real-world environments. Proceedings of the 19th ACM Asia Conference on Computer and Communications Security. https://doi.org/10.1145/3634737.3645012
+
+Ekisa, Conrad and Briain, Diarmuid Ó and Kavanagh, Yvonne. 2024. Leveraging the MITRE ATT\&CK Framework for Threat Identification and Evaluation in Industrial Control System Simulations. 2024 35th Irish Signals and Systems Conference (ISSC). 10.1109/ISSC61953.2024.10602968
+
+Virkud, Apurva and Inam, Muhammad Adil and Riddle, Andy and Liu, Jason and Wang, Gang and Bates, Adam. 2024. How does Endpoint Detection use the {MITRE}{ATT&CK} Framework?. 33rd USENIX Security Symposium (USENIX Security 24). 
+
+Lanni, Mei and Kurniawan, Aditya. 2024. Boosting Cyber Risk Assessment in Government Entities through Combined NIST and MITRE ATT&CK Threat Modeling. Journal of System and Management Sciences. 10.33168/JSMS.2024.0618
+
+Abdelwahab, Ihab and Hefny, Hesham A and Darwish, Nagy Ramdan. 2024. Enhancing Cybersecurity Defenses: A Multicriteria Decision-Making Approach to Mitre Att&ck Mitigation Strategye. SSRN 4907361. http://dx.doi.org/10.2139/ssrn.4907361
+
 Mohamed, Ihab and Hefny, Hesham A and Darwish, Nagy R. 2024. Enhancing cybersecurity defenses: a multicriteria decision-making approach to MITRE ATT\&CK mitigation strategy. arXiv preprint arXiv:2407.19222. https://doi.org/10.48550/arXiv.2407.19222
-Sadeghian, Ali. 2024. Detecting the most vulnerable nodes in the AND-OR graph using MITRE ATT\&CK. Source not available. DOI not available
-Song, Zheyu and Tian, Yonghong and Zhang, Junjin. 2023. Similarity analysis of ransomware attacks based on ATT\&CK Matrix. IEEE Access. DOI not available
-Okuma, Momoka and Watarai, Koki and Okada, Satoshi and Mitsunaga, Takuho. 2023. Automated Mapping Method for Sysmon Logs to ATT\&CK Techniques by Leveraging Atomic Red Team. 2023 6th International Conference on Signal Processing and Information Security (ICSPIS). DOI not available
-Crochelet, Pierre and Neal, Christopher and Boulahia Cuppens, Nora and Cuppens, Fr{\'e. 2023. Automated Attacker Behaviour Classification Using Threat Intelligence Insights. International Symposium on Foundations and Practice of Security. https://doi.org/10.1007/978-3-031-57537-2_18
-Daniel, Nir and Kaiser, Florian Klaus and Dzega, Anton and Elyashar, Aviad and Puzis, Rami. 2023. Labeling NIDS Rules with MITRE ATT \&CK Techniques Using ChatGPT. European Symposium on Research in Computer Security. 10.1007/978-3-031-54129-2_5
+
+Song, Zheyu and Tian, Yonghong and Zhang, Junjin. 2023. Similarity analysis of ransomware attacks based on ATT&CK Matrix. IEEE Access. 10.1109/ACCESS.2023.3322427
+
+Okuma, Momoka and Watarai, Koki and Okada, Satoshi and Mitsunaga, Takuho. 2023. Automated Mapping Method for Sysmon Logs to ATT&CK Techniques by Leveraging Atomic Red Team. 2023 6th International Conference on Signal Processing and Information Security (ICSPIS). 10.1109/ICSPIS60075.2023.10343783 
+
+Crochelet, Pierre and Neal, Christopher and Boulahia Cuppens, Nora and Cuppens, Frédéric and Proulx, Alexandre. 2023. Automated Attacker Behaviour Classification Using Threat Intelligence Insights. International Symposium on Foundations and Practice of Security. https://doi.org/10.1007/978-3-031-57537-2_18
+
+Daniel, Nir and Kaiser, Florian Klaus and Dzega, Anton and Elyashar, Aviad and Puzis, Rami. 2023. Labeling NIDS Rules with MITRE ATT&CK Techniques Using ChatGPT. European Symposium on Research in Computer Security. 10.1007/978-3-031-54129-2_5
+
 Klement, Felix and Liu, Wuhao and Katzenbeisser, Stefan. 2023. Towards Securing the 6G Transition: A Comprehensive Empirical Method to Analyze Threats in O-RAN Environments. IEEE Journal on Selected Areas in Communications. 10.1109/JSAC.2023.3339172
+
 Lee, Shanhsin and Tsai, Mengru and Shieh, Shiuhpyng Winston. 2023. The Game of Spear and Shield in Next Era of Cybersecurity. IEEE Transactions on Reliability. 10.1109/TR.2023.3342874
+
 Boakye-Boateng, Kwasi and Ghorbani, Ali A and Lashkari, Arash Habibi. 2023. Implementation of a Trust-Based Framework for Substation Defense in the Smart Grid. Smart Cities. https://doi.org/10.3390/smartcities7010005
+
 Youssef, El-Nasser S and Labeau, Fabrice and Kassouf, Marthe. 2023. Adversarial dynamic load-altering cyberattacks against peak shaving using residential electric water heaters. IEEE Transactions on Smart Grid. 10.1109/TSG.2023.3300239
-Sen, {\"O. 2023. An approach to abstract multi-stage cyberattack data generation for ml-based ids in smart grids. 2023 IEEE Belgrade PowerTech. 10.1109/PowerTech55446.2023.10202747
+
+Sen, Ömer and Malskorn, Philipp and Glomb, Simon and Hacker, Immanuel and Henze, Martin and Ulbig, Andreas. 2023. An approach to abstract multi-stage cyberattack data generation for ml-based ids in smart grids. 2023 IEEE Belgrade PowerTech. 10.1109/PowerTech55446.2023.10202747
+
 Zacharis, Alexandros and Patsakis, Constantinos. 2023. AiCEF: an AI-assisted cyber exercise content generation framework using named entity recognition. International Journal of Information Security. https://doi.org/10.1007/s10207-023-00693-z
-Pirca, Ana Maria and Lallie, Harjinder Singh. 2023. An empirical evaluation of the effectiveness of attack graphs and MITRE ATT\&CK matrices in aiding cyber attack perception amongst decision-makers. Computers \& Security. https://doi.org/10.1016/j.cose.2023.103254
+
+Pirca, Ana Maria and Lallie, Harjinder Singh. 2023. An empirical evaluation of the effectiveness of attack graphs and MITRE ATT&CK matrices in aiding cyber attack perception amongst decision-makers. Computers & Security. https://doi.org/10.1016/j.cose.2023.103254
+
 Mundt, Michael and Baier, Harald. 2023. Threat-based simulation of data exfiltration toward mitigating multiple ransomware extortions. Digital Threats: Research and Practice. https://doi.org/10.1145/3568993
-Al-Sada, Bader and Sadighian, Alireza and Oligeri, Gabriele. 2023. Analysis and Characterization of Cyber Threats Leveraging the MITRE ATT\&CK Database. IEEE Access. 10.1109/ACCESS.2023.3344680
+
+Al-Sada, Bader and Sadighian, Alireza and Oligeri, Gabriele. 2023. Analysis and Characterization of Cyber Threats Leveraging the MITRE ATT&CK Database. IEEE Access. 10.1109/ACCESS.2023.3344680
+
 Boyarchuk, Oleg and Mariani, Sebastiano and Ortolani, Stefano and Vigna, Giovanni. 2023. Keeping up with the emotets: Tracking a multi-infrastructure botnet. Digital Threats: Research and Practice. https://doi.org/10.1145/3594554
+
 Alfageh, Alyah and Adepu, Sridhar and Konstantinou, Charalambos. 2023. Water Risk-Proofed: Risk Assessment in Water Desalination. Proceedings of the 5th Workshop on CPS\&IoT Security and Privacy. https://doi.org/10.1145/3605758.3623500
+
 Liu, Longhui and Zhou, Yang and Xu, Qing and Shi, Qunshan and Hu, Xiaofei. 2023. Improved technique for order of preference by similarity to ideal solution method for identifying key terrain in cyberspace asset layer. Plos one. https://doi.org/10.1371/journal.pone.0288293
-Lee, Insup and Choi, Changhee. 2023. Camp2Vec: Embedding cyber campaign with ATT\&CK framework for attack group analysis. ICT Express. https://doi.org/10.1016/j.icte.2023.05.008
-Dehlaghi-Ghadim, Alireza and Moghadam, Mahshid Helali and Balador, Ali and Hansson, Hans. 2023. Anomaly detection dataset for industrial control systems. IEEE Access. DOI not available
+
+Lee, Insup and Choi, Changhee. 2023. Camp2Vec: Embedding cyber campaign with ATT&CK framework for attack group analysis. ICT Express. https://doi.org/10.1016/j.icte.2023.05.008
+
+Dehlaghi-Ghadim, Alireza and Moghadam, Mahshid Helali and Balador, Ali and Hansson, Hans. 2023. Anomaly detection dataset for industrial control systems. IEEE Access. 10.1109/ACCESS.2023.3320928 
+
 Patil, Rajendra and Muneeswaran, Sivaanandh and Sachidananda, Vinay and Gurusamy, Mohan. 2023. E-Audit: Distinguishing and investigating suspicious events for APTs attack detection. Journal of Systems Architecture. https://doi.org/10.1016/j.sysarc.2023.102988
+
 Dev, Jayati and Rashidi, Bahman and Garg, Vaibhav. 2023. Models of applied privacy (MAP): A persona based approach to threat modeling. Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems. https://doi.org/10.1145/3544548.3581484
+
 Lee, Shanhsin and Chen, Yung-Shiu and Shieh, Shiuhpyng Winston. 2023. CoDex: Cross-Tactic Correlation System for Data Exfiltration Detection. 2023 IEEE Conference on Dependable and Secure Computing (DSC). 10.1109/DSC61021.2023.10354203
-Yekta, Ali Recai and Spychalski, Dominik and Yekta, Erhan and Yekta, Cenk and Katzenbeisser, Stefan. 2023. VATT\&EK: Formalization of Cyber Attacks on Intelligent Transport Systems-a TTP based approach for Automotive and Rail. Proceedings of the 7th ACM Computer Science in Cars Symposium. https://doi.org/10.1145/3631204.3631867
+
+Yekta, Ali Recai and Spychalski, Dominik and Yekta, Erhan and Yekta, Cenk and Katzenbeisser, Stefan. 2023. VATT&EK: Formalization of Cyber Attacks on Intelligent Transport Systems-a TTP based approach for Automotive and Rail. Proceedings of the 7th ACM Computer Science in Cars Symposium. https://doi.org/10.1145/3631204.3631867
+
 Bhosale, Pushparaj and Kastner, Wolfgang and Sauter, Thilo. 2023. Integrated Safety-Security Risk Assessment for Production Systems: A Use Case Using Bayesian Belief Networks. 2023 IEEE 21st International Conference on Industrial Informatics (INDIN). 10.1109/INDIN51400.2023.10217926
-Abbas-Escribano, Marwan and Debar, Herv{\'e. 2023. An improved honeypot model for attack detection and analysis. Proceedings of the 18th International Conference on Availability, Reliability and Security. https://doi.org/10.1145/3600160.3604993
-Amro, Ahmed and Gkioulos, Vasileios and Katsikas, Sokratis. 2023. Assessing cyber risk in cyber-physical systems using the ATT\&CK framework. ACM Transactions on Privacy and Security. https://doi.org/10.1145/3571733
+
+Abbas-Escribano, Marwan and Debar, Hervé. 2023. An improved honeypot model for attack detection and analysis. Proceedings of the 18th International Conference on Availability, Reliability and Security. https://doi.org/10.1145/3600160.3604993
+
+Amro, Ahmed and Gkioulos, Vasileios and Katsikas, Sokratis. 2023. Assessing cyber risk in cyber-physical systems using the ATT&CK framework. ACM Transactions on Privacy and Security. https://doi.org/10.1145/3571733
+
 Ellerhold, Christian and Schnagl, Johann and Schreck, Thomas. 2023. Enterprise Cyber Threat Modeling and Simulation of Loss Events for Cyber Risk Quantification. Proceedings of the 2023 on Cloud Computing Security Workshop. https://doi.org/10.1145/3605763.3625244
+
 Rani, Nanda and Saha, Bikash and Maurya, Vikas and Shukla, Sandeep Kumar. 2023. TTPHunter: automated extraction of actionable intelligence as TTPs from narrative threat reports. Proceedings of the 2023 Australasian Computer Science Week. https://doi.org/10.1145/3579375.3579391
-Rodr{\'\i. 2023. Discovering attacker profiles using process mining and the MITRE ATT\&CK taxonomy. Proceedings of the 12th Latin-American Symposium on Dependable and Secure Computing. DOI not available
+
+Rodríguez, Marcelo and Betarte, Gustavo and Galegari, Daniel. 2023. Discovering attacker profiles using process mining and the MITRE ATT&CK taxonomy. Proceedings of the 12th Latin-American Symposium on Dependable and Secure Computing. https://doi.org/10.1145/3615366.3615372
+
 Savin, Georgel M and Asseri, Ammar and Dykstra, Josiah and Goohs, Jonathan and Melaragno, Anthony and Casey, William. 2023. Battle ground: Data collection and labeling of ctf games to understand human cyber operators. Proceedings of the 16th Cyber Security Experimentation and Test Workshop. https://doi.org/10.1145/3607505.3607524
+
 Friji, Hamdi and Mavromatis, Ioannis and Sanchez-Mompo, Adrian and Carnelli, Pietro and Olivereau, Alexis and Khan, Aftab. 2023. Multi-stage Attack Detection and Prediction Using Graph Neural Networks: An IoT Feasibility Study. 2023 IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). 10.1109/TrustCom60117.2023.00095
+
 Al Homoud, Leen and Barpanda, Namrata and Goulart, Ana and Davis, Katherine and Rice, Mark. 2023. On Grid Resiliency: Cyber-Physical Detection Tool Evaluated in a Multi-Stage Attack Scenario. 2023 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm). 10.1109/SmartGridComm57358.2023.10333970
-Soliman, Hazem M and Sovilj, Du{\v{s. 2023. Rank: Ai-assisted end-to-end architecture for detecting persistent attacks in enterprise networks. IEEE Transactions on Dependable and Secure Computing. 10.1109/TDSC.2023.3338136
+
+Soliman, Hazem M and Sovilj, Dušan and Salmon, Geoff and Rao, Mohan and Mayya, Niranjan. 2023. Rank: Ai-assisted end-to-end architecture for detecting persistent attacks in enterprise networks. IEEE Transactions on Dependable and Secure Computing. 10.1109/TDSC.2023.3338136
+
 Preethi, P and Vasudevan, I and Saravanan, S and Prakash, R Krishna and Devendhiran, A. 2023. Leveraging network vulnerability detection using improved import vector machine and Cuckoo search based Grey Wolf Optimizer. 2023 1st International Conference on Optimization Techniques for Learning (ICOTL). 10.1109/ICOTL59758.2023.10435119
-{\c{C. 2023. APT Detection: an Incremental Correlation Approach. 2023 IEEE 12th International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS). 10.1109/IDAACS58523.2023.10348952
+
+ Çakmakçı, Salva Daneshgadeh and Gkoktsis, Georgios and Buchta, Robin and Detken, Kai Oliver and Heine, Felix and Kleiner, Carsten. 2023. APT Detection: an Incremental Correlation Approach. 2023 IEEE 12th International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS). 10.1109/IDAACS58523.2023.10348952
+
 Sarkar, Gargi and Singh, Hardeep and Kumar, Subodh and Shukla, Sandeep K. 2023. Tactics, techniques and procedures of cybercrime: A methodology and tool for cybercrime investigation process. Proceedings of the 18th International Conference on Availability, Reliability and Security. https://doi.org/10.1145/3600160.3605013
+
 Sajid, Md Sajidul Islam and Wei, Jinpeng and Al-Shaer, Ehab and Duan, Qi and Abdeen, Basel and Khan, Latifur. 2023. SymbSODA: configurable and verifiable orchestration automation for active malware deception. ACM Transactions on Privacy and Security. https://doi.org/10.1145/3624568
-Kim, Donghyun and Jeon, Seungho and Shin, Jiho and Seo, Jung Taek. 2023. Design the IoT Botnet Defense Process for Cybersecurity in Smart City.. Intelligent Automation \& Soft Computing. https://doi.org/10.32604/iasc.2023.040019
+
+Kim, Donghyun and Jeon, Seungho and Shin, Jiho and Seo, Jung Taek. 2023. Design the IoT Botnet Defense Process for Cybersecurity in Smart City. Intelligent Automation & Soft Computing. https://doi.org/10.32604/iasc.2023.040019
+
 Halabi, Talal and Zulkernine, Mohammad. 2023. The Ultimate Battle Against Zero-Day Exploits: Toward Fully Autonomous Cyber-Physical Defense. 2023 IEEE International Conference on Software Services Engineering (SSE). 10.1109/SSE60056.2023.00041
-Shin, Chanho and Lee, Insup and Choi, Changhee. 2023. Exploiting TTP Co-Occurrence via GloVe-Based Embedding With MITRE ATT\&CK Framework. IEEE Access. 10.1109/ACCESS.2023.3315121
+
+Shin, Chanho and Lee, Insup and Choi, Changhee. 2023. Exploiting TTP Co-Occurrence via GloVe-Based Embedding With MITRE ATT&CK Framework. IEEE Access. 10.1109/ACCESS.2023.3315121
+
 Subhan, Dimas and Lim, Charles. 2023. Analyzing adversary’s attack on ethereum collected from honeypots. 2023 11th International Conference on Information and Communication Technology (ICoICT). 10.1109/ICoICT58202.2023.10262563
+
 van Do, Thoai and Do, Van Thuan and Jacot, Niels and Flores, Bernardo and Feng, Boning and van Do, Thanh. 2023. MITRE ATT and CK Threat Modelling Extensions for Mobile Threats. International Conference on Mobile Web and Intelligent Information Systems. https://doi.org/10.1007/978-3-031-39764-6_17
-Islam, Mohammad Anwarul. 2023. Application of artificial intelligence and machine learning in security operations center. Issues in Information Systems. 10.48009/4_iis_2023_124
-Tavolato, Paul and Luh, Robert and Eresheim, Sebastian. 2023. A Game Theoretic Analysis of Cyber Threats.. ICISSP. 10.5220/0011792700003405
-Mukherjee, Kunal and Wiedemeier, Joshua and Wang, Tianhao and Wei, James and Chen, Feng and Kim, Muhyun and Kantarcioglu, Murat and Jee, Kangkook. 2023. Evading $\{$Provenance-Based$\. 32nd USENIX Security Symposium (USENIX Security 23). https://dl.acm.org/doi/10.1145/3678890.3678916
+
+Tavolato, Paul and Luh, Robert and Eresheim, Sebastian. 2023. A Game Theoretic Analysis of Cyber Threats. ICISSP. 10.5220/0011792700003405
+
+Mukherjee, Kunal and Wiedemeier, Joshua and Wang, Tianhao and Wei, James and Chen, Feng and Kim, Muhyun and Kantarcioglu, Murat and Jee, Kangkook. 2023. Evading Provenance-Based ML Detectors with Adversarial System Actions. 32nd USENIX Security Symposium (USENIX Security 23). https://dl.acm.org/doi/10.1145/3678890.3678916
+
 Abdeen, Basel and Al-Shaer, Ehab and Singhal, Anoop and Khan, Latifur and Hamlen, Kevin. 2023. Smet: Semantic mapping of cve to att\&ck and its application to cybersecurity. IFIP Annual Conference on Data and Applications Security and Privacy. https://doi.org/10.1007/978-3-031-37586-6_15
+
 Neha and Singh, Virendra. 2023. Brutector: A Probabilistic Detection Model for Bruteforce Attacks in SSH Server. 2023 16th International Conference on Security of Information and Networks (SIN). 10.1109/SIN60469.2023.10474903
-Goyal, Akul and Han, Xueyuan and Wang, Gang and Bates, Adam. 2023. Sometimes, you aren’t what you do: Mimicry attacks against provenance graph host intrusion detection systems. 30th Network and Distributed System Security Symposium. DOI not available
+
+Goyal, Akul and Han, Xueyuan and Wang, Gang and Bates, Adam. 2023. Sometimes, you aren’t what you do: Mimicry attacks against provenance graph host intrusion detection systems. 30th Network and Distributed System Security Symposium. 
+
 Sun, Siqi and Huang, Cheng and Wu, Tiejun and Shen, Yi. 2023. SecTKG: A Knowledge Graph for Open-Source Security Tools. International Journal of Intelligent Systems. https://doi.org/10.1155/2023/4464974
+
 Heverin, Thomas. 2023. Reconnaissance Techniques and Industrial Control System Tactics Knowledge Graph. European Conference on Cyber Warfare and Security. https://doi.org/10.34190/eccws.22.1.1221
-Sewak, Mohit and Emani, Vamsi and Naresh, Annam. 2023. CRUSH: Cybersecurity Research using Universal LLMs and Semantic Hypernetworks.. EKG-LLM@ CIKM. DOI not available
-Jeon, So-Eun and Lee, Sun-Jin and Lee, Eun-Young and Lee, Yeon-Ji and Ryu, Jung-Hwa and Moon, Jung-Hyun and Yi, Sun-Min and Lee, Il-Gu. 2023. An Effective Threat Detection Framework for Advanced Persistent Cyberattacks. CMC-COMPUTERS MATERIALS \& CONTINUA. https://doi.org/10.32604/cmc.2023.034287
-Bleiman, Rachel and Williams, Jamie and Rege, Aunshul and Williams, Katorah. 2023. Exploring the MITRE ATT\&CK{\textregistered. Proceedings of the International Conference on Cybersecurity, Situational Awareness and Social Media: Cyber Science 2022; 20--21 June; Wales. https://doi.org/10.1007/978-981-19-6414-5_8
+
+Sewak, Mohit and Emani, Vamsi and Naresh, Annam. 2023. CRUSH: Cybersecurity Research using Universal LLMs and Semantic Hypernetworks. EKG-LLM@ CIKM. 
+
+Jeon, So-Eun and Lee, Sun-Jin and Lee, Eun-Young and Lee, Yeon-Ji and Ryu, Jung-Hwa and Moon, Jung-Hyun and Yi, Sun-Min and Lee, Il-Gu. 2023. An Effective Threat Detection Framework for Advanced Persistent Cyberattacks. CMC-COMPUTERS MATERIALS & CONTINUA. https://doi.org/10.32604/cmc.2023.034287
+
+Bleiman, Rachel and Williams, Jamie and Rege, Aunshul and Williams, Katorah. 2023. Exploring the MITRE ATT&CK® Matrix in SE Education. Proceedings of the International Conference on Cybersecurity, Situational Awareness and Social Media: Cyber Science 2022; 20--21 June; Wales. https://doi.org/10.1007/978-981-19-6414-5_8
+
 Lai, Yi-Cheng and Yu, Chiao-Lin and Liao, Man-Ling and Lin, Yu-Shan and Chang, Yao-Chung and Chen, Jiann-Liang. 2023. An Intelligence Defense System with SNORT Rules. 2023 25th International Conference on Advanced Communication Technology (ICACT). 10.23919/ICACT56868.2023.10079506
+
 Bagui, Sikha S and Mink, Dustin and Bagui, Subhash C and Ghosh, Tirthankar and Plenkers, Russel and McElroy, Tom and Dulaney, Stephan and Shabanali, Sajida. 2023. Introducing uwf-zeekdata22: A comprehensive network traffic dataset based on the mitre att\&ck framework. Data. https://doi.org/10.3390/data8010018
-Tang, Binhui and Wang, Junfeng and Qiu, Huanran and Yu, Jian and Yu, Zhongkun and Liu, Shijia. 2023. Attack Behavior Extraction Based on Heterogeneous Cyberthreat Intelligence and Graph Convolutional Networks.. Computers, Materials \& Continua. 10.32604/cmc.2023.029135
+
+Tang, Binhui and Wang, Junfeng and Qiu, Huanran and Yu, Jian and Yu, Zhongkun and Liu, Shijia. 2023. Attack Behavior Extraction Based on Heterogeneous Cyberthreat Intelligence and Graph Convolutional Networks. Computers, Materials & Continua. 10.32604/cmc.2023.029135
+
 Noel, Steven and Purdy, Stephen and O’Rourke, Annie and Overly, Edward and Chen, Brianna and DiFonzo, Christine and Chen, Joseph and Sakellis, George and Hegde, Mandira and Sapra, Mano and others. 2023. Graph analytics and visualization for cyber situational understanding. The Journal of Defense Modeling and Simulation. https://doi.org/10.1177/15485129211051385
-Alevizos, Lampis and Stavrou, Eliana. 2023. Cyber threat modeling for protecting the crown jewels in the Financial Services Sector (FSS). Information Security Journal: A Global Perspective. DOI not available
-Mohammed, Abubakar Sadiq and Anthi, Eirini and Rana, Omer and Saxena, Neetesh and Burnap, Pete. 2023. Detection and mitigation of field flooding attacks on oil and gas critical infrastructure communication. Computers \& Security. https://doi.org/10.1016/j.cose.2022.103007
+
+Alevizos, Lampis and Stavrou, Eliana. 2023. Cyber threat modeling for protecting the crown jewels in the Financial Services Sector (FSS). Information Security Journal: A Global Perspective. https://doi.org/10.1080/19393555.2022.2104766 
+
+Mohammed, Abubakar Sadiq and Anthi, Eirini and Rana, Omer and Saxena, Neetesh and Burnap, Pete. 2023. Detection and mitigation of field flooding attacks on oil and gas critical infrastructure communication. Computers & Security. https://doi.org/10.1016/j.cose.2022.103007
+
 Park, Na-Eun and Lee, Yu-Rim and Joo, Soyoung and Kim, So-Yeon and Kim, So-Hui and Park, Ju-Young and Kim, Seo-Yi and Lee, Il-Gu. 2023. Performance evaluation of a fast and efficient intrusion detection framework for advanced persistent threat-based cyberattacks. Computers and Electrical Engineering. https://doi.org/10.1016/j.compeleceng.2022.108548
-Houmb, Siv Hilde and Iversen, Fionn and Ewald, Robert and F{\ae. 2023. Intelligent risk based cybersecurity protection for industrial systems control-a feasibility study. International Petroleum Technology Conference. https://doi.org/10.2523/IPTC-22795-MS
-Ooi, Sian En and Beuran, Razvan and Kuroda, Takayuki and Kuwahara, Takuya and Hotchi, Ryosuke and Fujita, Norihito and Tan, Yasuo. 2023. Intent-driven secure system design: Methodology and implementation. Computers \& Security. https://doi.org/10.1016/j.cose.2022.102955
+
+Houmb, Siv Hilde and Iversen, Fionn and Ewald, Robert and Færaas, Einar. 2023. Intelligent risk based cybersecurity protection for industrial systems control-a feasibility study. International Petroleum Technology Conference. https://doi.org/10.2523/IPTC-22795-MS
+
+Ooi, Sian En and Beuran, Razvan and Kuroda, Takayuki and Kuwahara, Takuya and Hotchi, Ryosuke and Fujita, Norihito and Tan, Yasuo. 2023. Intent-driven secure system design: Methodology and implementation. Computers & Security. https://doi.org/10.1016/j.cose.2022.102955
+
 Wen, He and Khan, Faisal. 2023. Cybersecurity and process safety synergy: An analytical exploration of cyberattack-induced incidents. The Canadian Journal of Chemical Engineering. https://doi.org/10.1002/cjce.25119
-Dong, Feng and Wang, Liu and Nie, Xu and Shao, Fei and Wang, Haoyu and Li, Ding and Luo, Xiapu and Xiao, Xusheng. 2023. $\{$DISTDET$\. 32nd USENIX Security Symposium (USENIX Security 23). DOI not available
-Francik, Paul and Ashley, Travis and Poplawski, Michael. 2023. Connecting the Dots: An Assessment of Cyber-risks in Networked Building and Municipal Infrastructure Systems. Source not available. DOI not available
+
+Dong, Feng and Wang, Liu and Nie, Xu and Shao, Fei and Wang, Haoyu and Li, Ding and Luo, Xiapu and Xiao, Xusheng. 2023. DISTDET: A Cost-Effective Distributed Cyber Threat Detection System. 32nd USENIX Security Symposium (USENIX Security 23). 
+
+Francik, Paul and Ashley, Travis and Poplawski, Michael. 2023. Connecting the Dots: An Assessment of Cyber-risks in Networked Building and Municipal Infrastructure Systems. 
+
 Irshad, Ehtsham and Siddiqui, Abdul Basit. 2023. Cyber threat attribution using unstructured reports in cyber threat intelligence. Egyptian Informatics Journal. https://doi.org/10.1016/j.eij.2022.11.001
-S{\'a. 2023. Analysis of Cyber-Intelligence Frameworks for AI Data Processing. Applied Sciences. https://doi.org/10.3390/app13169328
-Ammi, Meryem and Jama, Yusuf Mohamud. 2023. Cyber Threat Hunting Case Study using MISP.. J. Internet Serv. Inf. Secur.. DOI not available
+
+Sánchez del Monte, Alberto and Hernández-Álvarez, Luis. 2023. Analysis of Cyber-Intelligence Frameworks for AI Data Processing. Applied Sciences. https://doi.org/10.3390/app13169328
+
+Ammi, Meryem and Jama, Yusuf Mohamud. 2023. Cyber Threat Hunting Case Study using MISP. Journal of Internet Services and Information Security (JISIS).10.58346/JISIS.2023.I2.001
+
 Rencelj Ling, Engla and Ekstedt, Mathias. 2023. Estimating time-to-compromise for industrial control system attack techniques through vulnerability data. SN Computer Science. https://doi.org/10.1007/s42979-023-01750-z
-Wang, Yuman and Wang, Wenhui and Bai, Xiaoxue and Hu, Bo and Ge, Guangkai and Qian, Kexiang. 2023. RRDD: An ATT\&CK-based ICS Network Security Risk Assessment Method. Proceedings of the 2023 2nd International Conference on Networks, Communications and Information Technology. https://doi.org/10.1145/3605801.3605837
-Aragon{\'e. 2023. Threat hunting architecture using a machine learning approach for critical infrastructures protection. Big data and cognitive computing. https://doi.org/10.3390/bdcc7020065
+
+Wang, Yuman and Wang, Wenhui and Bai, Xiaoxue and Hu, Bo and Ge, Guangkai and Qian, Kexiang. 2023. RRDD: An ATT&CK-based ICS Network Security Risk Assessment Method. Proceedings of the 2023 2nd International Conference on Networks, Communications and Information Technology. https://doi.org/10.1145/3605801.3605837
+
+Aragonés Lozano, Mario and Pérez Llopis, Israel and Esteve Domingo, Manuel. 2023. Threat hunting architecture using a machine learning approach for critical infrastructures protection. Big data and cognitive computing. https://doi.org/10.3390/bdcc7020065
+
 Sharma, Yashovardhan and Birnbach, Simon and Martinovic, Ivan. 2023. RADAR: A TTP-based Extensible, Explainable, and Effective System for Network Traffic Analysis and Malware Detection. Proceedings of the 2023 European Interdisciplinary Cybersecurity Conference. https://doi.org/10.1145/3590777.3590804
-Atefi, Soodeh and Panda, Sakshyam and Panaousis, Emmanouil and Laszka, Aron. 2023. Principled data-driven decision support for cyber-forensic investigations. Proceedings of the AAAI Conference on Artificial Intelligence. DOI not available
-Zahid, Shahzaib and Mazhar, Muhammad Shoaib and Abbas, Syed Ghazanfar and Hanif, Zahid and Hina, Sadaf and Shah, Ghalib A. 2023. Threat modeling in smart firefighting systems: Aligning MITRE ATT\&CK matrix and NIST security controls. Internet of Things. https://doi.org/10.1016/j.iot.2023.100766
+
+Atefi, Soodeh and Panda, Sakshyam and Panaousis, Emmanouil and Laszka, Aron. 2023. Principled data-driven decision support for cyber-forensic investigations. Proceedings of the AAAI Conference on Artificial Intelligence. https://doi.org/10.1609/aaai.v37i4.25628 
+
+Zahid, Shahzaib and Mazhar, Muhammad Shoaib and Abbas, Syed Ghazanfar and Hanif, Zahid and Hina, Sadaf and Shah, Ghalib A. 2023. Threat modeling in smart firefighting systems: Aligning MITRE ATT&CK matrix and NIST security controls. Internet of Things. https://doi.org/10.1016/j.iot.2023.100766
+
 Lucchese, Marco and Lupia, Francesco and Merro, Massimo and Paci, Federica and Zannone, Nicola and Furfaro, Angelo. 2023. HoneyICS: A high-interaction physics-aware honeynet for industrial control systems. Proceedings of the 18th International Conference on Availability, Reliability and Security. https://doi.org/10.1145/3600160.3604984
+
 Horalek, Josef and Sobeslav, Vladimir. 2023. Security Baseline for Substation Automation Systems. Sensors. https://doi.org/10.3390/s23167125
+
 Yockey, Patience and Erickson, Anna and Spirito, Christopher. 2023. Cyber threat assessment of machine learning driven autonomous control systems of nuclear power plants. Progress in Nuclear Energy. https://doi.org/10.1016/j.pnucene.2023.104960
+
 Yoon, Seong-Su and Kim, Do-Yeon and Kim, Ka-Kyung and Euom, Ieck-Chae. 2023. Vulnerability exploitation risk assessment based on offensive security approach. Applied Sciences. https://doi.org/10.3390/app132212180
-Bagui, Sikha S and Mink, Dustin and Bagui, Subhash C and Plain, Michael and Hill, Jadarius and Elam, Marshall. 2023. Using a Graph Engine to Visualize the Reconnaissance Tactic of the MITRE ATT\&CK Framework from UWF-ZeekData22. Future Internet. https://doi.org/10.3390/fi15070236
+
+Bagui, Sikha S and Mink, Dustin and Bagui, Subhash C and Plain, Michael and Hill, Jadarius and Elam, Marshall. 2023. Using a Graph Engine to Visualize the Reconnaissance Tactic of the MITRE ATT&CK Framework from UWF-ZeekData22. Future Internet. https://doi.org/10.3390/fi15070236
+
 Yano, Tomohiko and Kuzuno, Hiroki and Magata, Kenichi. 2023. File Tracking and Visualization Methods Using a Network Graph to Prevent Information Leakage. IEICE TRANSACTIONS on Information and Systems. 10.1587/transinf.2022ICP0014
+
 Ladisa, Piergiorgio and Sahin, Merve and Ponta, Serena Elisa and Rosa, Marco and Martinez, Matias and Barais, Olivier. 2023. The Hitchhiker's Guide to Malicious Third-Party Dependencies. Proceedings of the 2023 Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses. https://doi.org/10.1145/3605770.3625212
-Gonz{\'a. 2023. A technical characterization of APTs by leveraging public resources. International Journal of Information Security. https://doi.org/10.1007/s10207-023-00706-x
+
+González-Manzano, Lorena and de Fuentes, José M and Lombardi, Flavio and Ramos, Cristina. 2023. A technical characterization of APTs by leveraging public resources. International Journal of Information Security. https://doi.org/10.1007/s10207-023-00706-x
+
 Rich, Marshall S. 2023. Enhancing Microsoft 365 Security: Integrating Digital Forensics Analysis to Detect and Mitigate Adversarial Behavior Patterns. Forensic Sciences. https://doi.org/10.3390/forensicsci3030030
-Happe, Andreas and Cito, J{\"u. 2023. Getting pwn’d by ai: Penetration testing with large language models. Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering. https://doi.org/10.1145/3611643.3613083
+
+Happe, Andreas and Cito, Jürgen. 2023. Getting pwn’d by ai: Penetration testing with large language models. Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering. https://doi.org/10.1145/3611643.3613083
+
 Chen, Chia-Mei and Hsu, Fang-Hsuan and Hwang, Jenq-Neng. 2023. Useful cyber threat intelligence relation retrieval using transfer learning. Proceedings of the 2023 European Interdisciplinary Cybersecurity Conference. https://doi.org/10.1145/3590777.3590784
+
 Alkhpor, Hadeel K and Alserhani, Faeiz M. 2023. Collaborative Federated Learning-Based Model for Alert Correlation and Attack Scenario Recognition. Electronics. https://doi.org/10.3390/electronics12214509
+
 Bajpai, Pranshu and Enbody, Richard. 2023. Know thy ransomware response: a detailed framework for devising effective ransomware response strategies. Digital Threats: Research and Practice. https://doi.org/10.1145/3606022
+
 Masi, Massimiliano and Sellitto, Giovanni Paolo and Aranha, Helder and Pavleska, Tanja. 2023. Securing critical infrastructures with a cybersecurity digital twin. Software and Systems Modeling. https://doi.org/10.1007/s10270-022-01075-0
+
 Akbar, Khandakar Ashrafi and Rahman, Fariha Ishrat and Singhal, Anoop and Khan, Latifur and Thuraisingham, Bhavani. 2023. The Design and Application of a Unified Ontology for Cyber Security. International Conference on Information Systems Security. https://doi.org/10.1007/978-3-031-49099-6_2
+
 Kim, Sungbeen and Kim, Dohoon. 2023. Securing the cyber resilience of a blockchain-based railroad non-stop customs clearance system. Sensors. https://doi.org/10.3390/s23062914
-Rao, Siddharth Prakash and Chen, Hsin-Yi and Aura, Tuomas. 2023. Threat modeling framework for mobile communication systems. Computers \& Security. https://doi.org/10.1016/j.cose.2022.103047
-Cakmak{\c{c. 2023. Central Security Incident Management Platform in Industry 4.0 with Threat Intelligence Interface. 2023 IEEE 12th International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS). 10.1109/IDAACS58523.2023.10348934
+
+Rao, Siddharth Prakash and Chen, Hsin-Yi and Aura, Tuomas. 2023. Threat modeling framework for mobile communication systems. Computers & Security. https://doi.org/10.1016/j.cose.2022.103047
+
+Çakmakçı, Salva Daneshgadeh and Catalkaya, Sercan and Detken, Kai Oliver and Eren, Evren. 2023. Central Security Incident Management Platform in Industry 4.0 with Threat Intelligence Interface. 2023 IEEE 12th International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS). 10.1109/IDAACS58523.2023.10348934
+
 Aghamohammadpour, Ali and Mahdipour, Ebrahim and Attarzadeh, Iman. 2023. Architecting threat hunting system based on the DODAF framework. The Journal of Supercomputing. https://doi.org/10.1007/s11227-022-04808-6
+
 Mahmoud, Moustafa and Mannan, Mohammad and Youssef, Amr. 2023. APTHunter: Detecting advanced persistent threats in early stages. Digital Threats: Research and Practice. https://doi.org/10.1145/3559768
+
 Alam, Md Tanvirul and Bhusal, Dipkamal and Park, Youngja and Rastogi, Nidhi. 2023. Looking beyond IoCs: Automatically extracting attack patterns from external CTI. Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses. https://doi.org/10.1145/3607199.3607208
-Amro, Ahmed and Gkioulos, Vasileios. 2023. Evaluation of a cyber risk assessment approach for cyber--physical systems: Maritime-and energy-use cases. Journal of Marine Science and Engineering. https://doi.org/10.3390/jmse11040744
+
+Amro, Ahmed and Gkioulos, Vasileios. 2023. Evaluation of a cyber risk assessment approach for cyber-physical systems: Maritime-and energy-use cases. Journal of Marine Science and Engineering. https://doi.org/10.3390/jmse11040744
+
 Mondal, Subrota Kumar and Tan, Tian and Khanam, Sadia and Kumar, Keshav and Kabir, Hussain Mohammed Dipu and Ni, Kan. 2023. Security quantification of container-technology-driven E-government systems. Electronics. https://doi.org/10.3390/electronics12051238
+
 Amro, Ahmed and Gkioulos, Vasileios. 2023. Cyber risk management for autonomous passenger ships using threat-informed defense-in-depth. International Journal of Information Security. https://doi.org/10.1007/s10207-022-00638-y
+
 Kumar, Ayush and Thing, Vrizlynn LL. 2023. Malicious Lateral Movement in 5G Core With Network Slicing And Its Detection. 2023 33rd International Telecommunication Networks and Applications Conference. 10.1109/ITNAC59571.2023.10368559
-Chorfa, Wissem and Youssef, Nihel Ben and Jemai, Abderrazak. 2023. Threat Modeling with Mitre ATT\&CK Framework Mapping for SD-IOT Security Assessment and Mitigations. 2023 IEEE Symposium on Computers and Communications (ISCC). 10.1109/ISCC58397.2023.10217945
+
+Chorfa, Wissem and Youssef, Nihel Ben and Jemai, Abderrazak. 2023. Threat Modeling with Mitre ATT&CK Framework Mapping for SD-IOT Security Assessment and Mitigations. 2023 IEEE Symposium on Computers and Communications (ISCC). 10.1109/ISCC58397.2023.10217945
+
 Nursidiq, Arssy Hasyir and Lim, Charles. 2023. Cyber Threat Hunting to Detect Unknown Threats in the Enterprise Network. 2023 IEEE International Conference on Cryptography, Informatics, and Cybersecurity (ICoCICs). 10.1109/ICoCICs58778.2023.10277438
+
 Shin, Jeongkeun and Carley, L Richard and Dobson, Geoffrey B and Carley, Kathleen M. 2023. Beyond Accuracy: Cybersecurity Resilience Evaluation of Intrusion Detection System against DoS Attacks using Agent-based Simulation. 2023 Winter Simulation Conference (WSC). 10.1109/WSC60868.2023.10408211
-Ampel, Benjamin and Vahedi, Tala and Samtani, Sagar and Chen, Hsinchun. 2023. Mapping exploit code on paste sites to the mitre att\&ck framework: A multi-label transformer approach. 2023 IEEE International Conference on Intelligence and Security Informatics (ISI). 10.1109/ISI58743.2023.10297272
-Song, Zheyu and Tian, Yonghong and Zhang, Junjin and Hao, Yufeng. 2023. Generating fake cyber threat intelligence using the gpt-neo model. 2023 8th International Conference on Intelligent Computing and Signal Processing (ICSP). DOI not available
+
+Ampel, Benjamin and Vahedi, Tala and Samtani, Sagar and Chen, Hsinchun. 2023. Mapping exploit code on paste sites to the mitre att&ck framework: A multi-label transformer approach. 2023 IEEE International Conference on Intelligence and Security Informatics (ISI). 10.1109/ISI58743.2023.10297272
+
+Song, Zheyu and Tian, Yonghong and Zhang, Junjin and Hao, Yufeng. 2023. Generating fake cyber threat intelligence using the gpt-neo model. 2023 8th International Conference on Intelligent Computing and Signal Processing (ICSP). 10.1109/ICSP58490.2023.10248596 
+
 Brown, Alex and Lee, Tze-Wen and Hong, Jin B. 2023. Evaluating Moving Target Defenses against Realistic Attack Scenarios. 2023 IEEE/ACM 4th International Workshop on Engineering and Cybersecurity of Critical Systems (EnCyCriS). 10.1109/ICSP58490.2023.10248596
-Brown, Alex and Lee, Tze-Wen and Hong, Jin B. 2023. Evaluating Moving Target Defenses against Realistic Attack Scenarios. 2023 IEEE/ACM 4th International Workshop on Engineering and Cybersecurity of Critical Systems (EnCyCriS). 10.1109/EnCyCriS59249.2023.00005
+
 Marinho, Renato and Holanda, Raimir. 2023. Automated emerging cyber threat identification and profiling based on natural language processing. IEEE Access. 10.1109/ACCESS.2023.3260020
+
 Subhan, Dimas and Lim, Charles. 2023. Unveiling Attack Patterns: A Study of Adversary Behavior from Honeypot Data. 2023 IEEE International Conference on Cryptography, Informatics, and Cybersecurity (ICoCICs). 10.1109/ICoCICs58778.2023.10276516
+
 Mustafa, Hussain M and Basumallik, Sagnik and Kidder, Samuel and Srivastava, Anurag. 2023. CPGrid-OT: Cyber-power data generation using real-time reconfigurable testbed for resiliency. 2023 11th Workshop on Modelling and Simulation of Cyber-Physical Energy Systems (MSCPES). 10.1109/MSCPES58582.2023.10123420
+
 Sachidananda, Vinay and Patil, Rajendra and Sachdeva, Akshay and Lam, Kwok-Yan and Yang, Liu. 2023. APTer: Towards the Investigation of APT Attribution. 2023 IEEE Conference on Dependable and Secure Computing (DSC). 10.1109/DSC61021.2023.10354155
+
 Mccarty, Michael and Johnson, Jay and Richardson, Bryan and Rieger, Craig and Cooley, Rafer and Gentle, Jake and Rothwell, Bradley and Phillips, Tyler and Novak, Beverly and Culler, Megan and others. 2023. Cybersecurity resilience demonstration for wind energy sites in co-simulation environment. IEEE Access. 10.1109/ACCESS.2023.3244778
+
 Mckee, Cole and Edie, Kelsie and Duby, Adam. 2023. Activity-attack graphs for intelligence-informed threat coa development. 2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC). 10.1109/CCWC57344.2023.10099277
+
 Ahn, BoHyun and Jenkins, Alycia M and Kim, Taesic and Zeng, Jianwu and McLauchlan, Lifford and Park, Sung-won. 2023. Exploring ransomware attacks on smart inverters. 2023 IEEE Energy Conversion Congress and Exposition (ECCE). 10.1109/ECCE53617.2023.10362822
+
 Marinho, Renato and Holanda Filho, Raimir. 2023. A Framework Proposal for Early Cyber Threat Identification and Profiling. 2023 International Conference on Software, Telecommunications and Computer Networks (SoftCOM). 10.23919/SoftCOM58365.2023.10271627
+
 Balyabin, Artyom A. 2023. Model of a Self-Healing Computing Process of a Cloud Computing System under Conditions of Information and Technical Impacts. 2023 XXVI International Conference on Soft Computing and Measurements (SCM). 10.1109/SCM58628.2023.10159053
+
 Jiang, Yunxin and Ren, Yitong and Wang, Ziyu and Tang, Yi and Lu, Shengtao and Hu, Ning and Tian, Zhihong and Zhou, Yinghai. 2023. OPTIMA-DEM: An Optimized Threat Behavior Prediction Method using DEMATEL-ISM. 2023 IEEE 12th International Conference on Cloud Networking (CloudNet). 10.1109/CloudNet59005.2023.10490058
-Green, Justin J and Drew, Sasha K and Heinen, Charles W and Bixler, Robert E and Barton, Armon C and others. 2023. Evaluating a Planning Product for Active Cyberdefense and Cyberdeception. 2023 Congress in Computer Science, Computer Engineering, \& Applied Computing (CSCE). 10.1109/CSCE60160.2023.00395
+
+Green, Justin J and Drew, Sasha K and Heinen, Charles W and Bixler, Robert E and Barton, Armon C and others. 2023. Evaluating a Planning Product for Active Cyberdefense and Cyberdeception. 2023 Congress in Computer Science, Computer Engineering, & Applied Computing (CSCE). 10.1109/CSCE60160.2023.00395
+
 Donald, Sam and Meyur, Rounak and Purohit, Sumit. 2023. Hybrid Attack Graph Generation with Graph Convolutional Deep-Q Learning. 2023 IEEE International Conference on Big Data (BigData). 10.1109/BigData59044.2023.10386675
+
 Purohit, Shaurya and Govindarasu, Manimaran. 2023. Cybersecurity Investment Analysis for Electric Vehicle Charging Infrastructures. 2023 Resilience Week (RWS). 10.1109/RWS58133.2023.10284670
+
 Leite, Cristoffer and Den Hartog, Jerry and Dos Santos, Daniel R and Costante, Elisa. 2023. Automated Cyber Threat Intelligence Generation on Multi-Host Network Incidents. 2023 IEEE International Conference on Big Data (BigData). 10.1109/BigData59044.2023.10386324
+
 Liao, Man-Ling and Yu, Chiao-Lin and Lai, Yi-Cheng and Chiu, Shih-Ping and Chen, Jiann-Liang. 2023. An Intelligent Cyber Threat Classification System. 2023 25th International Conference on Advanced Communication Technology (ICACT). 10.23919/ICACT56868.2023.10079405
-Ehrlich, Marco and Br{\"o. 2023. Determining the Target Security Level for Automated Security Risk Assessments. 2023 IEEE 21st International Conference on Industrial Informatics (INDIN). 10.1109/INDIN51400.2023.10217902
+
+Ehrlich, Marco and Bröring, Andre and Diedrich, Christian and Jasperneite, Jürgen and Kastner, Wolfgang and Trsek, Henning. 2023. Determining the Target Security Level for Automated Security Risk Assessments. 2023 IEEE 21st International Conference on Industrial Informatics (INDIN). 10.1109/INDIN51400.2023.10217902
+
 Mekala, Sri Harsha and Baig, Zubair and Anwar, Adnan and Syed, Naeem. 2023. DoS Attacks, Human Factors, and Evidence Extraction for the Industrial Internet of Things (IIoT) Paradigm. 2023 38th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW). 10.1109/ASEW60602.2023.00009
-Ca{\~n. 2023. Recommendations of Security Controls Using Threat Modeling in Information Systems in Higher Education Institutions. 2023 IEEE International Conference on Engineering Veracruz (ICEV). 10.1109/ICEV59168.2023.10329765
-Haque, Md Ariful and Shetty, Sachin and Kamhoua, Charles A and Gold, Kimberly. 2023. Adversarial technique validation \& defense selection using attack graph \& ATT\&CK Matrix. 2023 International Conference on Computing, Networking and Communications (ICNC). 10.1109/ICNC57223.2023.10074241
+
+Cañada-Meza, Diego Denilson and Prudente-Tixteco, Lidia and Mercado-Hernández, Pablo Ramón and Arenas-Hernández, Jocelyn Guadalupe and Ugalde-Eduardo, Mayra. 2023. Recommendations of Security Controls Using Threat Modeling in Information Systems in Higher Education Institutions. 2023 IEEE International Conference on Engineering Veracruz (ICEV). 10.1109/ICEV59168.2023.10329765
+
+Haque, Md Ariful and Shetty, Sachin and Kamhoua, Charles A and Gold, Kimberly. 2023. Adversarial technique validation & defense selection using attack graph & ATT&CK Matrix. 2023 International Conference on Computing, Networking and Communications (ICNC). 10.1109/ICNC57223.2023.10074241
+
 Kulkarni, Mugdha S and Ashit, Dudhia Hard and Chetan, Chauhan Nency. 2023. A Proactive Approach to Advanced Cyber Threat Hunting. 2023 7th International Conference on Computation System and Information Technology for Sustainable Solutions (CSITSS). 10.1109/CSITSS60515.2023.10334219
+
 Guha, Tapas and Sha, Ravi. 2023. Evaluation of Flow-Based Intrusion Detection Systems Using Network Segmentation. 2023 4th International Conference on Smart Electronics and Communication (ICOSEC). 10.1109/ICOSEC58147.2023.10276127
+
 Sharma, Yashovardhan and Giunchiglia, Eleonora and Birnbach, Simon and Martinovic, Ivan. 2023. To TTP or not to TTP?: Exploiting TTPs to Improve ML-based Malware Detection. 2023 IEEE International Conference on Cyber Security and Resilience (CSR). 10.1109/CSR57506.2023.10225000
+
 Ear, Ekzhin and Remy, Jose LC and Feffer, Antonia and Xu, Shouhuai. 2023. Characterizing cyber attacks against space systems with missing data: Framework and case study. 2023 IEEE Conference on Communications and Network Security (CNS). 10.1109/CNS59707.2023.10289045
-Mumrez, Aneeqa and Roomi, Muhammad M and Tan, Heng Chuan and Mashima, Daisuke and Elbez, Ghada and Hagenmeyer, Veit. 2023. Comparative Study on Smart Grid Security Testbeds Using MITRE ATT\&CK Matrix. 2023 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm). 10.1109/SmartGridComm57358.2023.10333902
-Okuma, Momoka and Watarai, Koki and Okada, Satoshi and Mitsunaga, Takuho. 2023. Automated Mapping Method for Sysmon Logs to ATT\&CK Techniques by Leveraging Atomic Red Team. 2023 6th International Conference on Signal Processing and Information Security (ICSPIS). 10.1109/ICSPIS60075.2023.10343783
+
+Mumrez, Aneeqa and Roomi, Muhammad M and Tan, Heng Chuan and Mashima, Daisuke and Elbez, Ghada and Hagenmeyer, Veit. 2023. Comparative Study on Smart Grid Security Testbeds Using MITRE ATT&CK Matrix. 2023 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm). 10.1109/SmartGridComm57358.2023.10333902
+
+Okuma, Momoka and Watarai, Koki and Okada, Satoshi and Mitsunaga, Takuho. 2023. Automated Mapping Method for Sysmon Logs to ATT&CK Techniques by Leveraging Atomic Red Team. 2023 6th International Conference on Signal Processing and Information Security (ICSPIS). 10.1109/ICSPIS60075.2023.10343783
+
 Subhan, Dimas and Lim, Charles. 2023. Analyzing adversary’s attack on ethereum collected from honeypots. 2023 11th International Conference on Information and Communication Technology (ICoICT). 10.1109/ICoICT58202.2023.10262563
+
 Purba, Moumita Das and Chu, Bill. 2023. Extracting Actionable Cyber Threat Intelligence from Twitter Stream. 2023 IEEE International Conference on Intelligence and Security Informatics (ISI). 10.1109/ISI58743.2023.10297205
-Muthia, Inas and Widjajarto, Adityas and Budiono, Avon. 2023. Risk Score Estimation of Vulnerabilities Within VulnOS2 Using AlienVault Based on MITRE ATT\&CK Model. 2023 IEEE 9th Information Technology International Seminar (ITIS). 10.1109/ITIS59651.2023.10419964
+
+Muthia, Inas and Widjajarto, Adityas and Budiono, Avon. 2023. Risk Score Estimation of Vulnerabilities Within VulnOS2 Using AlienVault Based on MITRE ATT&CK Model. 2023 IEEE 9th Information Technology International Seminar (ITIS). 10.1109/ITIS59651.2023.10419964
+
 Edie, Kelsie and Mckee, Cole and Duby, Adam. 2023. Extending Threat Playbooks for Cyber Threat Intelligence: A Novel Approach for APT Attribution. 2023 11th International Symposium on Digital Forensics and Security (ISDFS). 10.1109/ISDFS58141.2023.10131867
-Hobert, Kevin and Lim, Charles and Budiarto, Eka. 2023. Enhancing cyber attribution through behavior similarity detection on linux shell honeypots with att\&ck framework. 2023 IEEE International Conference on Cryptography, Informatics, and Cybersecurity (ICoCICs). 10.1109/ICoCICs58778.2023.10276639
+
+Hobert, Kevin and Lim, Charles and Budiarto, Eka. 2023. Enhancing cyber attribution through behavior similarity detection on linux shell honeypots with att&ck framework. 2023 IEEE International Conference on Cryptography, Informatics, and Cybersecurity (ICoCICs). 10.1109/ICoCICs58778.2023.10276639
+
 Kaiser, Florian Klaus and Dardik, Uriel and Elitzur, Aviad and Zilberman, Polina and Daniel, Nir and Wiens, Marcus and Schultmann, Frank and Elovici, Yuval and Puzis, Rami. 2023. Attack hypotheses generation based on threat intelligence knowledge graph. IEEE Transactions on Dependable and Secure Computing. 10.1109/TDSC.2022.3233703
-Lee, Annabelle and Gourisetti, Sri Nikhil Gupta and Sebastian-Cardenas, David Jonathan and Lambert, Kent and Navarro, Vicente and Pasetti, Marco and Cali, {\"U. 2023. Assessment of the distributed ledger technology for energy sector industrial and operational applications using the mitre att\&ck{\textregistered. IEEE Access. 10.1109/ACCESS.2023.3288428
+
+Lee, Annabelle and Gourisetti, Sri Nikhil Gupta and Sebastian-Cardenas, David Jonathan and Lambert, Kent and Navarro, Vicente and Pasetti, Marco and Cali, Ümit and Isirova, Kateryna and Reddi, Ramesh and Nitu, Puica and others. 2023. Assessment of the Distributed Ledger Technology for Energy Sector Industrial and Operational Applications Using the MITRE ATT&CK® ICS Matrix. IEEE Access. 10.1109/ACCESS.2023.3288428
+
 Sheikhi, Saeid and Kostakos, Panos. 2023. Cyber threat hunting using unsupervised federated learning and adversary emulation. 2023 IEEE International Conference on Cyber Security and Resilience (CSR). 10.1109/CSR57506.2023.10224990
+
 Fujita, Junya and Ogura, Takashi and Okochi, Kazuya and Matsumoto, Noritaka and Sawada, Kenji and Kaneko, Osamu. 2023. A Structured Cyber Attack Representation Model based on the Diamond Model and Adversary States. IEEE Access. 10.1109/ACCESS.2023.3343639
+
 Alabdulhadi, Sarah M and Al-Matouq, Ali. 2023. Alarm Rationalization for Cybersecurity Monitoring. 2023 Sixth International Conference of Women in Data Science at Prince Sultan University (WiDS PSU). 10.1109/WiDS-PSU57071.2023.00020
+
 Brenner, Bernhard and Hollerer, Siegfried and Bhosale, Pushparaj and Sauter, Thilo and Kastner, Wolfgang and Fabini, Joachim and Zseby, Tanja. 2023. Better safe than sorry: Risk Management based on a safety-augmented Network Intrusion Detection System. IEEE Open Journal of the Industrial Electronics Society. 10.1109/OJIES.2023.3297057
+
 Gulatas, Ibrahim and Kilinc, H Hakan and Zaim, A Halim and Aydin, M Ali. 2023. Malware threat on edge/fog computing environments from Internet of Things devices perspective. IEEE Access. 10.1109/ACCESS.2023.3262614
+
 Villanueva-Miranda, Ismael and Akbar, Monika. 2023. Analyzing Threat Vectors in ICS Cyberattacks. 2023 IEEE International Conference on Big Data (BigData). 10.1109/BigData59044.2023.10386468
+
 Salley, Christin J and Mohammadi, Neda and Taylor, John E. 2023. Safeguarding Infrastructure from Cyber Threats with NLP-Based Information Retrieval. 2023 Winter Simulation Conference (WSC). 10.5555/3643142.3643213
+
 Ajmal, Abdul Basit and Khan, Shawal and Alam, Masoom and Mehbodniya, Abolfazl and Webber, Julian and Waheed, Abdul. 2023. Toward effective evaluation of cyber defense: Threat based adversary emulation approach. IEEE Access. 10.1109/ACCESS.2023.3272629
+
 Abdelwahed, Mustafa F and Kamal, Mustafa M and Sayed, Samir G. 2023. Detecting malware activities with MalpMiner: a dynamic analysis approach. IEEE Access. 10.1109/ACCESS.2023.3266562
-Jamieson, Alan and Few, Chris and Awuson-David, Kenny and Al-Hadhrami, Tawfik. 2023. HVA\_CPS proposal: a process for hazardous vulnerability analysis in distributed cyber-physical systems. PeerJ Computer Science. https://doi.org/10.7717/peerj-cs.1249
-Kuwano, Masaki and Okuma, Momoka and Okada, Satoshi and Mitsunaga, Takuho. 2023. The attacker might also do next: ATT\&CK behavior forecasting by attacker-based collaborative filtering and graph databases. Journal of Information Processing. https://doi.org/10.2197/ipsjjip.31.802
-Roy, Shanto and Panaousis, Emmanouil and Noakes, Cameron and Laszka, Aron and Panda, Sakshyam and Loukas, George. 2023. Sok: The mitre att\&ck framework in research and practice. arXiv preprint arXiv:2304.07411. https://doi.org/10.48550/arXiv.2304.07411
-Son, Seok Bin and Park, Soohyun and Lee, Haemin and Kim, Youngkee and Kim, Dongwan and Kim, Joongheon. 2023. Introduction to MITRE ATT\&CK: concepts and use cases. 2023 International Conference on Information Networking (ICOIN). 10.1109/ICOIN56518.2023.10048930
-Lasky, Nicholas and Hallis, Benjamin and Vanamala, Mounika and Dave, Rushit and Seliya, Jim. 2023. Machine Learning Based Approach to Recommend MITRE ATT\&CK Framework for Software Requirements and Design Specifications. arXiv preprint arXiv:2302.05530. https://doi.org/10.48550/arXiv.2302.05530
-Bolton, Joshua and Elluri, Lavanya and Joshi, Karuna Pande. 2023. An Overview of Cybersecurity Knowledge Graphs Mapped to the MITRE ATT\&CK Framework Domains. 2023 IEEE International Conference on Intelligence and Security Informatics (ISI). 10.1109/ISI58743.2023.10297134
-Havlena, Vojt{\v{e. 2022. Accurate Automata-Based Detection of Cyber Threats in Smart Grid Communication. IEEE Transactions on Smart Grid. DOI not available
+
+Kuwano, Masaki and Okuma, Momoka and Okada, Satoshi and Mitsunaga, Takuho. 2023. The attacker might also do next: ATT&CK behavior forecasting by attacker-based collaborative filtering and graph databases. Journal of Information Processing. https://doi.org/10.2197/ipsjjip.31.802
+
+Lasky, Nicholas and Hallis, Benjamin and Vanamala, Mounika and Dave, Rushit and Seliya, Jim. 2023. Machine Learning Based Approach to Recommend MITRE ATT&CK Framework for Software Requirements and Design Specifications. arXiv preprint arXiv:2302.05530. https://doi.org/10.48550/arXiv.2302.05530
+
+Havlena, Vojtěch and Matoušek, Petr and Ryšavý, Ondřej and Holík, Lukáš. 2022. Accurate Automata-Based Detection of Cyber Threats in Smart Grid Communication. IEEE Transactions on Smart Grid. 10.1109/TSG.2022.3216726
+
 Landauer, Max and Skopik, Florian and Frank, Maximilian and Hotwagner, Wolfgang and Wurzenberger, Markus and Rauber, Andreas. 2022. Maintainable log datasets for evaluation of intrusion detection systems. IEEE Transactions on Dependable and Secure Computing. 10.1109/TDSC.2022.3201582
+
 Di Tizio, Giorgio and Armellini, Michele and Massacci, Fabio. 2022. Software updates strategies: A quantitative evaluation against advanced persistent threats. IEEE Transactions on Software Engineering. 10.1109/TSE.2022.3176674
+
 Meshram, Ankush and Karch, Markus and Haas, Christian and Beyerer, J{\"u. 2022. POET: A Self-learning Framework for PROFINET Industrial Operations Behaviour. International Conference on Testbeds and Research Infrastructures. https://doi.org/10.1007/978-3-031-33458-0_1
+
 Mayukha, S and Vadivel, R. 2022. Reconnaissance for penetration testing using active scanning of mitre att\&ck. Information and Communication Technology for Competitive Strategies (ICTCS 2021) Intelligent Strategies for ICT. https://doi.org/10.1007/978-981-19-0098-3_66
 Fazelnia, Mohamad and Okutan, Ahmet and Mirakhorli, Mehdi. 2022. Supporting Artificial Intelligence/Machine Learning Security Workers Through an Adversarial Techniques, Tools, and Common Knowledge Framework. IEEE Security \& Privacy. 10.1109/MSEC.2022.3221058
 Outkin, Alexander V and Schulz, Patricia V and Schulz, Timothy and Tarman, Thomas D and Pinar, Ali. 2022. Defender policy evaluation and resource allocation with MITRE ATT\&CK evaluations data. IEEE Transactions on Dependable and Secure Computing. 10.1109/TDSC.2022.3165624
