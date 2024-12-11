@@ -1,17 +1,29 @@
 # MITRE-review-papers
 
 Marcelo Rodríguez, Gustavo Betarte, Daniel Calegari. 2024. A process mining-based method for attacker profiling using the MITRE ATT\&CK taxonomy. Journal of Internet Services and Applications. https://doi.org/10.5753/jisa.2024.3902 
+
 Singh, Narendra and Tripathy, Somanath. 2024. It's too late if exfiltrate: Early stage Android ransomware detection. Computers \& Security. https://doi.org/10.1016/j.cose.2024.103819
+
 Chimmanee, Krishna and Jantavongso, Suttisak. 2024. Digital forensic of Maze ransomware: A case of electricity distributor enterprise in ASEAN. Expert Systems with Applications. https://doi.org/10.1016/j.eswa.2024.123652
+
 Yi, Tao and Chen, Xingshu and Li, Qindong and Zhu, Yi. 2024. An anomaly behavior characterization method of network traffic based on Spatial Pyramid Pool (SPP). Computers \& Security. https://doi.org/10.1016/j.cose.2024.103809
+
 Li, Lingzi and Huang, Cheng and Chen, Junren. 2024. Automated discovery and mapping ATT\&CK tactics and techniques for unstructured cyber threat intelligence. Computers \& Security. https://doi.org/10.1016/j.cose.2024.103815
+
 Bagui, Sikha S and Mink, Dustin and Bagui, Subhash C and Sung, Dae Hyun and Mahmud, Farooq. 2024. Graphical Representation of UWF-ZeekData22 Using Memgraph. Electronics. https://doi.org/10.3390/electronics13061015
+
 Hossain, M Shamim and Islam, M Saiful and Rahman, M Abdur. 2024. A Cyber Range Framework for Emulating Secure and Private IT/OT Consumer Service Verticals Towards 6G. IEEE Transactions on Consumer Electronics. 10.1109/TCE.2024.3387055
+
 Loevenich, Johannes F and Adler, Erik and Mercier, R{\'e. 2024. Design of an Autonomous Cyber Defence Agent using Hybrid AI models. 2024 International Conference on Military Communication and Information Systems (ICMCIS). 10.1109/ICMCIS61231.2024.10540988
+
 Simonetto, Stefano. 2024. Strengthening Cloud Applications: A Deep Dive into Kill Chain Identification, Scoring, and Automatic Penetration Testing. International Conference on Research Challenges in Information Science. https://doi.org/10.1007/978-3-031-59468-7_13
+
 Batalla, Jordi Mongay and Wrona, Konrad and Brown, David and Wi{\k{a. 2024. Threat Assessment of 5G Networks for Military Applications. 2024 International Conference on Military Communication and Information Systems (ICMCIS). DOI not available
+
 Yameogo, Sidbewendin Angelique. 2024. Improving Understanding of Misinformation Campaigns with a Two-Stage Methodology Using Semantic Analysis of Fake News. International Conference on Research Challenges in Information Science. DOI not available
+
 Mundt, Michael and Baier, Harald. 2024. Enhancing Incident Management by an Improved Understanding of Data Exfiltration: Definition, Evaluation, Review. International Conference on Digital Forensics and Cyber Crime. https://doi.org/10.1007/978-3-031-56580-9_3
+
 Lin, Pin-Shan and Lai, Yi-Cheng and Liao, Man-Ling and Chiu, Shih-Ping and Chen, Jiann-Liang. 2024. Hybrid Clustering Mechanisms for High-Efficiency Intrusion Prevention. 2024 26th International Conference on Advanced Communications Technology (ICACT). 10.23919/ICACT60172.2024.10471957
 Nguyen, Tu and Srndic, Nedim and Neth, Alexander. 2024. Noise Contrastive Estimation-based Matching Framework for Low-resource Security Attack Pattern Recognition. arXiv preprint arXiv:2401.10337. DOI not available
 Tavolato, Paul and Luh, Robert and Eresheim, Sebastian and Gmeiner, Simon and Schrittwieser, Sebastian. 2024. Comparing the Effectivity of Planned Cyber Defense Controls in Order to Support the Selection Process.. ICISSP. 10.5220/0012421800003648
