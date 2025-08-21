@@ -34,7 +34,7 @@ Mundt, Michael and Baier, Harald. 2024. Enhancing Incident Management by an Impr
 
 Lin, Pin-Shan and Lai, Yi-Cheng and Liao, Man-Ling and Chiu, Shih-Ping and Chen, Jiann-Liang. 2024. Hybrid Clustering Mechanisms for High-Efficiency Intrusion Prevention. 2024 26th International Conference on Advanced Communications Technology (ICACT). 10.23919/ICACT60172.2024.10471957
 
-Nguyen, Tu and Srndic, Nedim and Neth, Alexander. 2024. Noise Contrastive Estimation-based Matching Framework for Low-resource Security Attack Pattern Recognition. arXiv preprint arXiv:2401.10337. https://doi.org/10.48550/arXiv.2401.10337
+Nguyen, T., Šrndić, N., & Neth, A. (2024, March). Noise Contrastive Estimation-based Matching Framework for Low-Resource Security Attack Pattern Recognition. In Findings of the Association for Computational Linguistics: EACL 2024 (pp. 355-373).
 
 Tavolato, Paul and Luh, Robert and Eresheim, Sebastian and Gmeiner, Simon and Schrittwieser, Sebastian. 2024. Comparing the Effectivity of Planned Cyber Defense Controls in Order to Support the Selection Process. ICISSP. 10.5220/0012421800003648
 
@@ -92,7 +92,7 @@ Bouhlal, Badr-Eddine and Sonnekalb, Tim and Gruner, Bernd and Brust, Clemens-Ale
 
 Chetwyn, Robert Andrew and Eian, Martin and Jøsang, Audun. 2024. Modelling Indicators of Behaviour for Cyber Threat Hunting via Sysmon. European Interdisciplinary Cybersecurity Conference. https://doi.org/10.1145/3655693.3655722
 
-Arreche, Osvaldo and Bibers, Ismail and Abdallah, Mustafa. 2024. A Two-Level Ensemble Learning Framework for Enhancing Network Intrusion Detection Systems. IEEE Access. https://doi.org/10.48550/arXiv.2409.18736
+Arreche, Osvaldo and Bibers, Ismail and Abdallah, Mustafa. 2024. A Two-Level Ensemble Learning Framework for Enhancing Network Intrusion Detection Systems. IEEE Access. https://ieeexplore.ieee.org/abstract/document/10540382
 
 Xiao, Dongling and Wei, Xiaoyan and Meng, Haohua and Zhao, Qingyao and Xu, Huan and Xia, Fan and Chen, Shi and Li, Xiang and Jin, Bo and Yu, Zheng. 2024. Research and Application of Side Channel Attacks and Defenses on Embedded Systems. 2024 International Conference on Integrated Circuits and Communication Systems (ICICACS). 10.1109/ICICACS60521.2024.10498374
 
@@ -132,7 +132,7 @@ Preuveneers, Davy and Joosen, Wouter. 2024. An Ontology-Based Cybersecurity Fram
 
 Maesschalck, Sam and Fantom, Will and Giotsas, Vasileios and Race, Nicholas. 2024. These Aren’t the PLCs you’re looking for: Obfuscating PLCs to mimic honeypots. IEEE Transactions on Network and Service Management. 10.1109/TNSM.2024.3361915
 
-Wilson, Alec and Menzies, Ryan and Morarji, Neela and Foster, David and Mont, Marco Casassa and Turkbeyler, Esin and Gralewski, Lisa. 2024. Multi-Agent Reinforcement Learning for Maritime Operational Technology Cyber Security. arXiv preprint arXiv:2401.10149. https://doi.org/10.48550/arXiv.2401.10149
+Wilson, A., Menzies, R., Morarji, N., Foster, D., Casassa Mont, M., Turkbeyler, E., & Gralewski, L. (2023). Multi-agent reinforcement learning for maritime operational technology cyber security. In Proceedings of the Conference on Applied Machine Learning in Information Security (CAMLIS 2023) (pp. 36-48).  
 
 Al-Hawawreh, Muna and Moustafa, Nour and Slay, Jill. 2024. A threat intelligence framework for protecting smart satellite-based healthcare networks. Neural Computing and Applications. https://doi.org/10.1007/s00521-021-06441-5
 
@@ -140,7 +140,7 @@ Skjøtskift, Geir and Eian, Martin and Bromander, Siri. 2024. Automated ATT&CK T
 
 Rafiey, Pasha and Namadchian, Amin. 2024. Mapping Vulnerability Description to MITRE ATT&CK Framework by LLM. https://doi.org/10.21203/rs.3.rs-4341401/v1
 
-Zambianco, Marco and Facchinetti, Claudio and Siracusa, Domenico. 2024. A Proactive Decoy Selection Scheme for Cyber Deception using MITRE ATT&CK. arXiv preprint arXiv:2404.12783. https://doi.org/10.1016/j.cose.2024.104144
+Zambianco, M., Facchinetti, C., & Siracusa, D. (2025). A Proactive Decoy Selection Scheme for Cyber Deception using MITRE ATT&CK. Computers & Security, 148, 104144.
 
 Afenu, Divine S and Asiri, Mohammed and Saxena, Neetesh. 2024. Industrial Control Systems Security Validation Based on MITRE Adversarial Tactics, Techniques, and Common Knowledge Framework. Electronics. https://doi.org/10.3390/electronics13050917
 
@@ -156,7 +156,7 @@ Lanni, Mei and Kurniawan, Aditya. 2024. Boosting Cyber Risk Assessment in Govern
 
 Abdelwahab, Ihab and Hefny, Hesham A and Darwish, Nagy Ramdan. 2024. Enhancing Cybersecurity Defenses: A Multicriteria Decision-Making Approach to Mitre Att&ck Mitigation Strategye. SSRN 4907361. http://dx.doi.org/10.2139/ssrn.4907361
 
-Mohamed, Ihab and Hefny, Hesham A and Darwish, Nagy R. 2024. Enhancing cybersecurity defenses: a multicriteria decision-making approach to MITRE ATT&CK mitigation strategy. arXiv preprint arXiv:2407.19222. https://doi.org/10.48550/arXiv.2407.19222
+Abdelwahab, I., Hefny, H. A., & Darwish, N. R. (2024). Enhancing Cybersecurity Defenses: A Multicriteria Decision-Making Approach to Mitre Att&ck Mitigation Strategye. Available at SSRN 4907361.
 
 Shen, Fan and Liu, Zhiyuan and Perigo, Levi. 2023. Strategic Monitoring for Efficient Detection of Simultaneous APT Attacks with Limited Resources. International Journal of Advanced Computer Science and Applications. 10.14569/IJACSA.2023.0140303
 
@@ -452,8 +452,6 @@ Abdelwahed, Mustafa F and Kamal, Mustafa M and Sayed, Samir G. 2023. Detecting m
 
 Kuwano, Masaki and Okuma, Momoka and Okada, Satoshi and Mitsunaga, Takuho. 2023. The attacker might also do next: ATT&CK behavior forecasting by attacker-based collaborative filtering and graph databases. Journal of Information Processing. https://doi.org/10.2197/ipsjjip.31.802
 
-Lasky, Nicholas and Hallis, Benjamin and Vanamala, Mounika and Dave, Rushit and Seliya, Jim. 2023. Machine Learning Based Approach to Recommend MITRE ATT&CK Framework for Software Requirements and Design Specifications. arXiv preprint arXiv:2302.05530. https://doi.org/10.48550/arXiv.2302.05530
-
 Dimitriadis, Athanasios and Lontzetidis, Efstratios and Kulvatunyou, Boonserm and Ivezic, Nenad and Gritzalis, Dimitris and Mavridis, Ioannis. 2022. Fronesis: digital forensics-based early detection of ongoing cyber-attacks. IEEE Access. https://doi.org/10.1109/ACCESS.2022.3233404
 
 Havlena, Vojtěch and Matoušek, Petr and Ryšavý, Ondřej and Holík, Lukáš. 2022. Accurate Automata-Based Detection of Cyber Threats in Smart Grid Communication. IEEE Transactions on Smart Grid. 10.1109/TSG.2022.3216726
@@ -504,7 +502,7 @@ Youn, Jaepil and Kim, Kookjin and Kang, Daeyoung and Lee, Jaeil and Park, Moosun
 
 Andrew, Yevonnael and Lim, Charles and Budiarto, Eka. 2022. Mapping linux shell commands to mitre att\&ck using nlp-based approach. 2022 International Conference on Electrical Engineering and Informatics (ICELTICs). 10.1109/ICELTICs56128.2022.9932097
 
-Zych, Mateusz and Mavroeidis, Vasileios. 2022. Enhancing the STIX Representation of MITRE ATT&CK for Group Filtering and Technique Prioritization. arXiv preprint arXiv.2204.11368. https://doi.org/10.34190/eccws.21.1.349
+Zych, M., & Mavroeidis, V. (2022, June). Enhancing the STIX Representation of MITRE ATT&CK for Group Filtering and Technique Prioritization. In European Conference on Cyber Warfare and Security (pp. 385-XIX). Academic Conferences International Limited.
 
 Al-Kadhimi, Amjed Ahmed and Singh, Manmeet Mahinderjit and Jabar, Thulfiqar. 2022. Fingerprint for mobile-sensor apt detection framework (FORMAP) based on tactics techniques and procedures (TTP) and Mitre. Proceedings of the 8th International Conference on Computational Science and Technology: ICCST 2021, Labuan, Malaysia, 28--29 August. https://doi.org/10.1007/978-981-16-8515-6_40
 
@@ -642,10 +640,6 @@ Sadlek, Lukáš and Čeleda, Pavel and Tovarňák, Daniel. 2022. Identification 
 
 Xiong, Wenjun and Legrand, Emeline and Åberg, Oscar and Lagerström, Robert. 2022. Cyber security threat modeling based on the MITRE Enterprise ATT&CK Matrix. Software and Systems Modeling. https://doi.org/10.1007/s10270-021-00898-7
 
-Rahman, Md Rayhanur and Williams, Laurie. 2022. Investigating co-occurrences of MITRE ATT&CK techniques. arXiv preprint arXiv:2211.06495. https://doi.org/10.48550/arXiv.2211.06495
-
-Rahman, Md Rayhanur and Williams, Laurie. 2022. An investigation of security controls and MITRE ATT&CK techniques. arXiv preprint arXiv:2211.06500. https://doi.org/10.48550/arXiv.2211.06500
-
 Bagui, Sikha and Mink, Dustin and Bagui, Subhash and Ghosh, Tirthankar and McElroy, Tom and Paredes, Esteban and Khasnavis, Nithisha and Plenkers, Russell. 2022. Detecting reconnaissance and discovery tactics from the MITRE ATT&CK framework in Zeek Conn Logs using Spark’s machine learning in the big data framework. Sensors. https://doi.org/10.3390/s22207999
 
 Jadidi, Zahra and Lu, Yi. 2021. A threat hunting framework for industrial control systems. IEEE Access. https://doi.org/10.1109/ACCESS.2021.3133260
@@ -732,13 +726,9 @@ Sahu, Indra Kumar and Nene, Manisha J. 2021. Model for IaaS security model: MISP
 
 Liao, Yi-Ching. 2021. Generating Targeted Attack Scenarios against Availability for Critical Infrastructures. 2021 14th CMI International Conference-Critical ICT Infrastructures and Platforms (CMI). 10.1109/CMI53512.2021.9663753
 
-Ampel, Benjamin and Samtani, Sagar and Ullman, Steven and Chen, Hsinchun. 2021. Linking common vulnerabilities and exposures to the mitre att&ck framework: A self-distillation approach. arXiv preprint arXiv:2108.01696. https://doi.org/10.48550/arXiv.2108.01696
+Ampel, B., Samtani, S., Ullman, S., & Chen, H. (2021). Linking common vulnerabilities and exposures to the MITRE ATT&CK framework: A self-distillation approach. In Proceedings of the 2021 ACM SIGKDD Workshop on AI-enabled Cybersecurity Analytics (AISec@KDD 2021) (pp. 1–8). ACM.
 
 Choi, Seungoh and Yun, Jeong-Han and Min, Byung-Gil. 2021. Probabilistic attack sequence generation and execution based on mitre att&ck for ics datasets. Proceedings of the 14th Cyber Security Experimentation and Test Workshop. https://doi.org/10.1145/3474718.3474722
-
-Manocha, Hardik and Srivastava, Akash and Verma, Chetan and Gupta, Ratan and Bansal, Bhavya. 2021. Security assessment rating framework for enterprises using mitre att&ck matrix. arXiv preprint arXiv:2108.06559. https://doi.org/10.48550/arXiv.2108.06559
-
-Pell, Robert and Moschoyiannis, Sotiris and Panaousis, Emmanouil and Heartfield, Ryan. 2021. Towards dynamic threat modelling in 5G core networks based on MITRE ATT&CK. arXiv preprint arXiv:2108.11206. https://doi.org/10.48550/arXiv.2108.11206
 
 Cerotti, Davide and Codetta-Raiteri, Daniele and Dondossola, Giovanna and Egidi, Lavinia and Franceschinis, Giuliana and Portinale, Luigi and Terruggia, Roberta. 2020. Evidence-based analysis of cyber attacks to security monitored distributed energy resources. Applied Sciences. https://doi.org/10.3390/app10144725
 
@@ -788,7 +778,7 @@ Maynard, Peter and McLaughlin, Kieran. 2020. Big fish, little fish, critical inf
 
 Purba, Moumita Das and Chu, Bill and Al-Shaer, Ehab. 2020. From word embedding to cyber-phrase embedding: Comparison of processing cybersecurity texts. 2020 IEEE International Conference on Intelligence and Security Informatics (ISI). 10.1109/ISI49825.2020.9280541
 
-Legoy, Valentine and Caselli, Marco and Seifert, Christin and Peter, Andreas. 2020. Automated retrieval of att&ck tactics and techniques for cyber threat reports. arXiv preprint arXiv:2004.14322. https://doi.org/10.48550/arXiv.2004.14322
+Legoy, V., Caselli, M., Seifert, C., & Peter, A. (2020). Automated Retrieval of ATT&CK Tactics and Techniques for Cyber Threat Reports. In 1st Cyber Threat Intelligence Symposium, CTI 2020.
 
 Halvorsen, James and Waite, Jesse and Hahn, Adam. 2019. Evaluating the observability of network security monitoring strategies with TOMATO. IEEE Access. https://doi.org/10.1109/ACCESS.2019.2933415
 
