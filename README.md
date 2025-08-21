@@ -1,6 +1,6 @@
 # MITRE-review-papers
 
-Here is the full list of 417 papers selected for review:
+Here is the full list of 412 papers selected for review:
 
 Ahn, Gwanghyun and Jang, Jisoo and Choi, Seho and Shin, Dongkyoo. 2024. Research on Improving Cyber Resilience by Integrating the Zero Trust security model with the MITRE ATT&CK matrix. IEEE Access. https://doi.org/10.1109/ACCESS.2024.3417182
 
